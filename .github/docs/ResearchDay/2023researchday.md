@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Configuration
+title: 2023 Research Day
+parent: Research Day
 nav_order: 2
 ---
 
