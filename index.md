@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-![Description of image](https://source.unsplash.com/RZ5TKFpdaWM/800x400)
+![](https://source.unsplash.com/RZ5TKFpdaWM/800x400)
 
 # London Qualitative Community
 
