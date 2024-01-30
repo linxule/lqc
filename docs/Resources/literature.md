@@ -6,4 +6,4 @@ nav_order: 2
 
 # Literaure Resources
 
-- [Zotero Group](https://www.zotero.org/groups/2768440/)
+- [Zotero Group](https://www.zotero.org/groups/)
