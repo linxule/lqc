@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Join
-nav_order: 2
+nav_order: 5
 ---
 
 # Join the community
 
-Please email us at [londonqualitativecommunity@gmail.com](mailto:londonqualitativecommunity@gmail.com) to join the community. We will send you an invitation to our community channel.
+- Please email us at [londonqualitativecommunity@gmail.com](mailto:londonqualitativecommunity@gmail.com) to join the community. We will send you an invitation to our community channel.
+- We are also on [LinkedIn](https://www.linkedin.com/groups/12947079/).

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Literature Resources
-nav_order: 2
+title: Resources
+nav_order: 4
 ---
 
-# Literature Resources
+# Resources
 
 ## Papers
 
