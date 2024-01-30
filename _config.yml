@@ -6,10 +6,3 @@ url: https://linxule.github.io/lqc
 
 aux_links:
   GitHub Repository: https://github.com/linxule/lqc
-
-# External navigation links
-nav_external_links:
-  - title: Discussion & Resources on PubPub
-    url: https://lqc.pubpub.org/
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
