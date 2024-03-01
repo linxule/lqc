@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Join
-nav_order: 5
+nav_order: 4
 ---
 
 # Join the community
