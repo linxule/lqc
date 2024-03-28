@@ -9,7 +9,6 @@ has_toc: false
 
 # School Representatives
 
-
 ## Bayes Business School
 
 ## London Business School
