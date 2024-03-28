@@ -16,4 +16,4 @@ The Steering Committee is responsible for the overall direction of the project. 
 
 [Kevin Corley](https://www.imperial.ac.uk/people/k.corley) [(Email)](mailto:k.corley@imperial.ac.uk)
 
-<img src="/assets/kevin.jpg" width="200" height="200">
+<img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
