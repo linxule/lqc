@@ -8,12 +8,4 @@ has_toc: true
 
 # Events
 
-
-## Community Events
-
-- [Method Reading Group]()
-- [Early Career Qualitative Festival]()
-
-## Reasearch Days
-
-- [Research Day 2023]()
+We organize events to bring together the community and share knowledge. We have a variety of events, from workshops to research days, and we are always looking for new ideas. If you have an idea for an event, please let us know!
