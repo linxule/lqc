@@ -12,8 +12,6 @@ has_toc: false
 
 The Steering Committee is responsible for the overall direction of the project. It is composed of the following members:
 
-## Members
-
 [**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley) [(Email)](mailto:k.corley@imperial.ac.uk)
 
 <img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
