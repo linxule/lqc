@@ -1,16 +1,12 @@
 ---
 layout: default
-title: Research Day 2023
+title: Research Day
 nav_order: 3c
 parent: Events
-has_children: false
+has_children: true
 has_toc: true
 ---
 
-# Research Day 2023
+# Research Day 
 
-## Program Information
-
-
-## Recap
-
+For research day, we will be hosting a series of talks and workshops to help you get started on your research journey.
