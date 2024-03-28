@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Research Days
-nav_order: 2a
+title: Research Day 2023
+nav_order: 3c
 parent: Events
 has_children: false
 has_toc: true
 ---
 
-# Research Days
+# Research Day 2023
+
+## Program Information
+
+
+## Recap
 
