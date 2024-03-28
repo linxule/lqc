@@ -10,7 +10,6 @@ nav_order: 4
 
 - [Zotero Group](https://www.zotero.org/groups/)
 
-
 ## Books
 
 

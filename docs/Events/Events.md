@@ -3,7 +3,7 @@ layout: default
 title: Events
 nav_order: 3
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Events
@@ -16,3 +16,4 @@ has_toc: false
 
 ## Reasearch Days
 
+- [Research Day 2023]()
