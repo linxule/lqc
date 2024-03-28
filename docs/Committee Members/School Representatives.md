@@ -18,7 +18,7 @@ Student Representative: [Kendall Smith](https://www.london.edu/phd/profiles/kend
 
 ## UCL School of Management
 
-Student Representative: [Martina Pizzinato]()
+Student Representative: [Martina Pizzinato](https://www.mgmt.ucl.ac.uk/people/martinapizzinato)
 
 ## Imperial College Business School
 
