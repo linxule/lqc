@@ -14,12 +14,12 @@ has_toc: false
 
 ## London Business School
 
-Student Representative: [Kendall Smith](https://www.london.edu/phd/profiles/kendall-smith)
+- [Kendall Smith](https://www.london.edu/phd/profiles/kendall-smith) (Student Representative)
 
 ## UCL School of Management
 
-Student Representative: [Martina Pizzinato](https://www.mgmt.ucl.ac.uk/people/martinapizzinato)
+- [Martina Pizzinato](https://www.mgmt.ucl.ac.uk/people/martinapizzinato) (Student Representative)
 
 ## Imperial College Business School
 
-Student Representative: [Xule Lin](https://linxule.com)
+- [Xule Lin](https://linxule.com) (Student Representative)
