@@ -2,6 +2,7 @@
 layout: default
 title: School Representatives
 nav_order: 2b
+parent: Committee Members
 has_children: true
 has_toc: false
 ---

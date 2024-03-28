@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Steering Committee
+parent: Committee Members
 nav_order: 2a
 has_children: true
 has_toc: false
