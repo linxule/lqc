@@ -20,6 +20,8 @@ Meet the steering committee (in alphabetical order):
 
 [**Martina Pizzinato**](https://www.mgmt.ucl.ac.uk/people/martinapizzinato) [(Email)](mailto:martina.pizzinato.21@ucl.ac.uk)
 
+<img src="/assets/martina.jpg" style="max-width: 300px; height: auto;">
+
 [**Marjolaine Rostain**](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) [(Email)](mailto:Marjolaine.Rostain@wbs.ac.uk)
 
 [**Shivaang Sharma**](https://www.mgmt.ucl.ac.uk/people/shivaangsharma) [(Email)](mailto:shivaang.sharma.19@ucl.ac.uk)
