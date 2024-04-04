@@ -8,3 +8,5 @@ has_toc: false
 ---
 
 # Ideas
+
+This is the page for shaing ideas.

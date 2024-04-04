@@ -8,3 +8,5 @@ has_toc: false
 ---
 
 # Questions
+
+This is the page for you to share any questions that you might have for the community members. 
