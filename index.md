@@ -1,5 +1,5 @@
 ---
-title: About LQC
+title: London Qualitative Community
 layout: home
 nav_order: 1
 ---
