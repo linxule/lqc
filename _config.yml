@@ -11,8 +11,8 @@ aux_links:
 color_scheme: dark
 
 # Logo and favicon
-logo: "/asset/logos/logo.png"
-favicon_ico: "/asset/logos/icon.png"
+logo: "/assets/logos/logo.svg"
+favicon_ico: "/assets/logos/icon.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
