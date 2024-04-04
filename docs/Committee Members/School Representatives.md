@@ -11,7 +11,7 @@ has_toc: false
 
 ## Bayes Business School
 
-- [Joelle Evans]([)](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans) (Faculty Representative)
+- [Joelle Evans](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans) (Faculty Representative)
 
 ## Imperial College Business School
 
