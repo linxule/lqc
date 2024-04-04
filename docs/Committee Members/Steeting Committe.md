@@ -22,4 +22,6 @@ Meet the steering committee (in in alphabetical order):
 
 [**Marjolaine Rostain**](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) [(Email)](mailto:Marjolaine.Rostain@wbs.ac.uk)
 
+[**Shivaang Sharma**](https://www.mgmt.ucl.ac.uk/people/shivaangsharma) [(Email)](mailto:shivaang.sharma.19@ucl.ac.uk)
 
+[**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
