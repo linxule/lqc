@@ -28,4 +28,4 @@ Meet the steering committee (in alphabetical order):
 
 [**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
 
-<img src="assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
+<img src="/assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
