@@ -9,6 +9,10 @@ has_toc: false
 
 # School Representatives
 
+The school representatives play a pivotal role in fostering the London Qualitative Community, serving as ambassadors within their respective institutions. They serve as liaisons between our community and their schools, facilitating collaboration, networking opportunities, and the exchange of ideas. 
+
+Meet the school representatives (in school alphabetical order):
+
 ## Bayes Business School
 
 - [Joelle Evans](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans) (Faculty Representative)
