@@ -1,7 +1,7 @@
 ---
 layout: discussion
 title: Questions
-nav_order: 1
+nav_order: 3
 parent: Discussions
 has_children: false
 has_toc: false
