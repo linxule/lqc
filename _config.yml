@@ -8,7 +8,7 @@ aux_links:
   GitHub Repository: https://github.com/linxule/lqc
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: dark
 
 # Logo and favicon
 logo: "/asset/icon.png"
