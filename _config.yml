@@ -17,3 +17,6 @@ favicon_ico: "/asset/icon.png"
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
+
+# giscus
+giscus: true
