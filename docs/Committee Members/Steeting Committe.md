@@ -10,8 +10,16 @@ has_toc: false
 
 # Steering Committee
 
-The Steering Committee is responsible for the overall direction of the project. It is composed of the following members:
+Comprising both esteemed and early career qualitative researchers, the steering committee guides the direction and growth of the London Qualitative Community. Together, we strive to foster an inclusive environment that nurtures learning, fosters meaningful dialogue, and advances the frontiers of qualitative research in management studies. 
+
+Meet the steering committee (in in alphabetical order):
 
 [**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley) [(Email)](mailto:k.corley@imperial.ac.uk)
 
 <img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
+
+[**Martina Pizzinato**](https://www.mgmt.ucl.ac.uk/people/martinapizzinato) [(Email)](mailto:martina.pizzinato.21@ucl.ac.uk)
+
+[**Marjolaine Rostain**](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) [(Email)](mailto:Marjolaine.Rostain@wbs.ac.uk)
+
+
