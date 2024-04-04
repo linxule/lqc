@@ -27,3 +27,5 @@ Meet the steering committee (in alphabetical order):
 <img src="/assets/shivaang.jpg" style="max-width: 300px; height: auto;">
 
 [**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
+
+<img src="assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
