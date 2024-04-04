@@ -24,4 +24,6 @@ Meet the steering committee (in alphabetical order):
 
 [**Shivaang Sharma**](https://www.mgmt.ucl.ac.uk/people/shivaangsharma) [(Email)](mailto:shivaang.sharma.19@ucl.ac.uk)
 
+<img src="/assets/shivaang.jpg" style="max-width: 300px; height: auto;">
+
 [**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
