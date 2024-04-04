@@ -15,7 +15,7 @@ has_toc: false
 
 ## Imperial College Business School
 
-- [Ileana Stigliani]([)](https://www.imperial.ac.uk/people/i.stigliani) (Faculty Representative)
+- [Ileana Stigliani](https://www.imperial.ac.uk/people/i.stigliani) (Faculty Representative)
 - [Xule Lin](https://www.imperial.ac.uk/people/xule.lin) (Student Representative)
 
 ## London Business School
