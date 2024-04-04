@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General
+title: Anonymous Q&A
 nav_order: 4
 parent: Discussions
 has_children: false
