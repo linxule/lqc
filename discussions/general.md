@@ -9,4 +9,4 @@ has_toc: false
 
 # General Discussion
 
-This is the general discussion page. Feel free to ask questions, share your thoughts, or discuss anything related to the course here.
+This is the general discussion page.
