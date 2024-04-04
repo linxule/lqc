@@ -22,6 +22,10 @@ Meet the school representatives (in school alphabetical order):
 - [Ileana Stigliani](https://www.imperial.ac.uk/people/i.stigliani) (Faculty Representative)
 - [Xule Lin](https://www.imperial.ac.uk/people/xule.lin) (Student Representative)
 
+## King's College London
+
+- [Johann Fortwengel](https://www.kcl.ac.uk/people/johann-fortwengel) (Faculty Representative)
+
 ## London Business School
 
 - [Minseo Beak](https://www.london.edu/faculty-and-research/faculty-profiles/m/minseo-baek) (Faculty Representative)
