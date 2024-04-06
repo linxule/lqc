@@ -17,7 +17,7 @@ has_toc: true
 
 On November 29, 2023 we hosted our first London Qualitative Community Research Day at UCL School of Management. Through different panels and activities, around 80 qualitative scholars from universities in and around London came together to discuss their work and ask established experts burning questions about doing qualitative research. 
 
-The event agenda can be found [here](https://drive.google.com/drive/u/2/folders/1C7n6avQvoagZJRl30N5bOPWthV0sVfAg)
+The event agenda can be found [here](https://drive.google.com/file/d/1OjCZDTWtaFJfF7SvCUxpaPEOTSDA_GAb/view?usp=sharing)
 
 Pictures from the event can be found [here](https://drive.google.com/drive/u/2/folders/11NfEMc8SQ-Gd95k-pwGPrTzy65poNICx)
 
