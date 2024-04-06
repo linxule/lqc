@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: discussion
 title: External Event Board
 nav_order: 5
 parent: Discussions
