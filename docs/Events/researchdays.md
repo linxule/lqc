@@ -13,4 +13,5 @@ Wednesday, November 29, 2023
 9:30 AM - 7:15 PM
 UCL School of Management [map](https://www.google.com/maps/place/UCL+School+of+Management/@51.5049489,-0.0195006,15z/data=!4m2!3m1!1s0x0:0x35b2dc5cc875d97?sa=X&ved=1t:2428&ictx=111)
 
-The event agenda can be found [here]([https://www.google.com/maps/place/UCL+School+of+Management/@51.5049489,-0.0195006,15z/data=!4m2!3m1!1s0x0:0x35b2dc5cc875d97?sa=X&ved=1t:2428&ictx=111](https://drive.google.com/drive/u/2/folders/1C7n6avQvoagZJRl30N5bOPWthV0sVfAg)
+The event agenda can be found [here](https://drive.google.com/drive/u/2/folders/1C7n6avQvoagZJRl30N5bOPWthV0sVfAg)
+
