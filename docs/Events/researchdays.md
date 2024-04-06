@@ -19,6 +19,6 @@ On November 29, 2023 we hosted our first London Qualitative Community Research D
 
 The event agenda can be found [here](https://drive.google.com/file/d/1OjCZDTWtaFJfF7SvCUxpaPEOTSDA_GAb/view?usp=sharing)
 
-Pictures from the event can be found [here](https://drive.google.com/drive/u/2/folders/11NfEMc8SQ-Gd95k-pwGPrTzy65poNICx)
+Pictures from the event can be found [here](https://drive.google.com/drive/folders/11NfEMc8SQ-Gd95k-pwGPrTzy65poNICx?usp=sharing)
 
 <img src="/assets/2023RD.jpg" style="max-width: auto; height: auto;">
