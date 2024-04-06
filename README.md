@@ -1,5 +1,5 @@
 
-![](/assets/logos/logo.png)
+![](/assets/logos/logo_dark.png)
 
 # About
 
