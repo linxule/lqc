@@ -14,10 +14,3 @@
     height: 100%;
 }
 
-/* Scale down the PDF on smaller screens */
-@media screen and (max-width: 600px) {
-    .custom-responsive-iframe iframe {
-        transform: scale(0.6);
-        transform-origin: 0 0;
-    }
-}
