@@ -7,7 +7,7 @@ nav_order: 1
 
 # London Qualitative Community
 
-![](assets/london.jpg)
+![](assets/LQC.jpg)
 
 Welcome to the official website for the London Qualitative Community (LQC)!
 
