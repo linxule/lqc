@@ -23,4 +23,4 @@ Pictures from the event can be found [here](https://drive.google.com/drive/folde
 
 ## Agenda
 
-<iframe src="/assets/2023researchday/2023agenda.pdf" width="100%" height=auto></iframe>
+<iframe src="/assets/2023researchday/2023agenda.pdf" style="width: 100%; height: calc(100vh - 18px)!important;" frameborder="0"></iframe>
