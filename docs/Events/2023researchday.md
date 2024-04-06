@@ -19,7 +19,9 @@ On November 29, 2023 we hosted our first London Qualitative Community Research D
 
 ## Event Agenda
 
-<iframe src="/assets/2023researchday/2023agenda.pdf" style="width: 100%; height: calc(100vh - 60px)!important;" frameborder="0"></iframe>
+<div class="custom-responsive-iframe">
+<iframe src="/assets/2023researchday/2023agenda.pdf" frameborder="0"></iframe>
+</div>
 
 ## Pictures
 
