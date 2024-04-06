@@ -20,7 +20,7 @@ On November 29, 2023 we hosted our first London Qualitative Community Research D
 ## Event Agenda
 
 <div class="custom-responsive-iframe">
-<iframe src="https://docs.google.com/viewer?url=https://github.com/linxule/lqc/raw/main/assets/2023researchday/2023agenda.pdf&embedded=true" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://drive.google.com/uc?export=download&id=1OjCZDTWtaFJfF7SvCUxpaPEOTSDA_GAb&embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Pictures
