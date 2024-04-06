@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-# title: Fall 2023 London Qualitative Community Research Day [UCL School of Management, 29/11/2023]
+# Fall 2023 London Qualitative Community Research Day [UCL School of Management, 29/11/2023]
 
 **Date:** Wednesday, November 29, 2023
 
