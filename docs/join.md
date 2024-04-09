@@ -6,7 +6,7 @@ nav_order: 5
 
 # Join the London Qualitative Community
 
-<img src="/assets/[LQC] Logo_LightGray.png" style="max-width: auto; height: auto;">
+<img src="assets/logos/[LQC] Logo_LightGray.png" style="max-width: auto; height: 300px;">
 
 To join the London Qualitative Community and be in our mailing list, please email us at [londonqualitativecommunity@gmail.com](mailto:londonqualitativecommunity@gmail.com) or directly reach out to one of members of the Steering Committee.
 
