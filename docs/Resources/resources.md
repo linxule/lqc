@@ -6,20 +6,10 @@ nav_order: 4
 
 # London Qualitative Community Resource Lists
 
-We have compiled resources recommended by our community members and related others that may be helpful to fellow scholars using qualitative methods. The workbook embedded below has worksheets with different resource types, from journal articles to useful websites and platforms. If you have suggestions for other resources that should be added, please message one of the steering committee members!
+We have compiled resources recommended by our community members and related others that may be helpful to fellow scholars using qualitative methods. This is a work in progress; we will be continuing to add details and categorize the different resources in useful ways over rhe coming months.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1EcnxzBkAZ0d_VVYRvQunZpvkcO3w08dmAnxc3ek1wPjO7i5ZeHcskD7ZdCHfIBAHjN61tjKrjjR5/pubhtml?widget=true&amp;headers=true" width="400" height="300" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+The spreadsheet embedded below has tabs with different resource types, from journal articles to useful websites and research tools. You can scroll within each tab to see more resources, notes on the resources, and links where applicable.  
 
-## Papers
+If you have suggestions for other resources that should be added, please message one of the steering committee members!
 
-
-## Books
-
-
-## Blogs 
-
-
-## Podcasts
-
-
-## Videos
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1EcnxzBkAZ0d_VVYRvQunZpvkcO3w08dmAnxc3ek1wPjO7i5ZeHcskD7ZdCHfIBAHjN61tjKrjjR5/pubhtml?widget=true&amp;headers=true" width="250" height="500" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0"></iframe>
