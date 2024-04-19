@@ -5,6 +5,7 @@ nav_order: 3
 parent: Discussions
 has_children: false
 has_toc: false
+search_exclude: true
 ---
 
 # Questions

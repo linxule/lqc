@@ -5,6 +5,7 @@ nav_order: 4
 parent: Discussions
 has_children: false
 has_toc: false
+search_exclude: true
 ---
 
 # Anonymous Q&A
