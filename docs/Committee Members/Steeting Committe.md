@@ -14,22 +14,57 @@ Comprising both esteemed and early career qualitative researchers, the steering 
 
 Meet the steering committee (in alphabetical order):
 
-### [**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley) [(Email)](mailto:k.corley@imperial.ac.uk)
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
+
+<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+
+[**Kevin Corley**](https://www.imperial.ac.uk/people/k.corley) [(Email)](mailto:k.corley@imperial.ac.uk)
 
 <img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
 
-### [**Martina Pizzinato**](https://www.mgmt.ucl.ac.uk/people/martinapizzinato) [(Email)](mailto:martina.pizzinato.21@ucl.ac.uk)
+</div>
+
+</div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
+
+<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+
+[**Martina Pizzinato**](https://www.mgmt.ucl.ac.uk/people/martinapizzinato) [(Email)](mailto:martina.pizzinato.21@ucl.ac.uk)
 
 <img src="/assets/martina.JPG" style="max-width: 300px; height: auto;">
 
-### [**Marjolaine Rostain**](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) [(Email)](mailto:Marjolaine.Rostain@wbs.ac.uk)
+</div>
+
+<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+
+[**Marjolaine Rostain**](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) [(Email)](mailto:Marjolaine.Rostain@wbs.ac.uk)
 
 <img src="/assets/Marjolaine.jpg" style="max-width: 300px; height: auto;">
 
-### [**Shivaang Sharma**](https://www.mgmt.ucl.ac.uk/people/shivaangsharma) [(Email)](mailto:shivaang.sharma.19@ucl.ac.uk)
+</div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
+
+<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+
+[**Shivaang Sharma**](https://www.mgmt.ucl.ac.uk/people/shivaangsharma) [(Email)](mailto:shivaang.sharma.19@ucl.ac.uk)
 
 <img src="/assets/shivaang.jpg" style="max-width: 300px; height: auto;">
 
-### [**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
+</div>
+
+<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+
+[**Kendall Smith**](https://www.london.edu/phd/profiles/kendall-smith) [(Email)](mailto:ksmith@london.edu)
 
 <img src="/assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
+
+</div>
+
+</div>
