@@ -27,8 +27,6 @@ Meet the steering committee (in alphabetical order):
 
 </div>
 
-</div>
-
 <div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
 
 <div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
