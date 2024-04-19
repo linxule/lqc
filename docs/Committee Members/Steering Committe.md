@@ -14,56 +14,53 @@ Comprising both esteemed and early career qualitative researchers, the steering 
 
 Meet the steering committee (in alphabetical order):
 
+<style>
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
+.person {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
 
-<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
+@media (max-width: 600px) {
+    .person {
+        flex: 100%;
+    }
+}
+</style>
 
+<div class="container">
+
+<div class="person">
 <p><a href="https://www.imperial.ac.uk/people/k.corley"><b>Kevin Corley</b></a> (<a href="mailto:k.corley@imperial.ac.uk">Email</a>)</p>
-
 <img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
-
 </div>
 
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
-
-<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
-
+<div class="person">
 <p><a href="https://www.mgmt.ucl.ac.uk/people/martinapizzinato"><b>Martina Pizzinato</b></a> (<a href="mailto:martina.pizzinato.21@ucl.ac.uk">Email</a>)</p>
-
 <img src="/assets/martina.JPG" style="max-width: 300px; height: auto;">
-
 </div>
 
-<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
-
-
+<div class="person">
 <p><a href="https://www.wbs.ac.uk/about/person/marjolaine-rostain/"><b>Marjolaine Rostain</b></a> (<a href="mailto:Marjolaine.Rostain@wbs.ac.uk">Email</a>)</p>
-
 <img src="/assets/Marjolaine.jpg" style="max-width: 300px; height: auto;">
-
 </div>
 
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 50px;">
-
-<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
-
+<div class="person">
 <p><a href="https://www.mgmt.ucl.ac.uk/people/shivaangsharma"><b>Shivaang Sharma</b></a> (<a href="mailto:shivaang.sharma.19@ucl.ac.uk">Email</a>)</p>
-
 <img src="/assets/shivaang.jpg" style="max-width: 300px; height: auto;">
-
 </div>
 
-<div style="flex: 50%; display: flex; flex-direction: column; align-items: center;">
-
+<div class="person">
 <p><a href="https://www.london.edu/phd/profiles/kendall-smith"><b>Kendall Smith</b></a> (<a href="mailto:ksmith@london.edu">Email</a>)</p>
-
 <img src="/assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
-
 </div>
 
 </div>
