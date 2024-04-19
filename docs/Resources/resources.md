@@ -12,4 +12,4 @@ The spreadsheet embedded below has tabs with different resource types, from jour
 
 If you have suggestions for other resources that should be added, please message one of the steering committee members!
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1EcnxzBkAZ0d_VVYRvQunZpvkcO3w08dmAnxc3ek1wPjO7i5ZeHcskD7ZdCHfIBAHjN61tjKrjjR5/pubhtml?widget=true&amp;headers=true" width="90%" height="700" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1EcnxzBkAZ0d_VVYRvQunZpvkcO3w08dmAnxc3ek1wPjO7i5ZeHcskD7ZdCHfIBAHjN61tjKrjjR5/pubhtml?widget=true&amp;headers=true" width="100%" height="700" scrolling="yes" frameborder="0" marginheight="0" marginwidth="0"></iframe>
