@@ -1,5 +1,5 @@
 ---
-title: London Qualitative Community
+title: **London Qualitative Community**
 layout: home
 nav_order: 1
 ---
