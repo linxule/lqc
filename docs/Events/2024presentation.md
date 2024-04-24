@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhD Workshop: Presenting Qualitative Research [Bayes Business School, 17/06/2024]
+title: Presenting Qualitative Research [Bayes Business School, 17/06/2024]
 nav_order: 2024a
 parent: Upcoming Events
 grand_parent: Events
@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-# PhD Workshop: Presenting Qualitative Research [Bayes Business School, 17/06/2024]
+# Presenting Qualitative Research [Bayes Business School, 17/06/2024]
 
 **Date:** Monday, June 17, 2024
 
