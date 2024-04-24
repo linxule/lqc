@@ -20,4 +20,4 @@ On May 9, Imperial College Business School will be hosting a Data Visualization 
 
 If you are interested in participating in this event, please make sure to register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdgUFgRjWxEENPeJdb90XZcCJOhANpL5K2_nuspZtu2NCTIwQ/viewform) by May 4, 2024.
 
-<img src="/assets/Data Visualization Workshop_Poster.png" style="max-width: 700px; height: 900px;">
+<img src="/assets/Data Visualization Workshop_Poster.png" style="max-width: 100%; height: auto;">
