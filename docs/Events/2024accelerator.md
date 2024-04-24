@@ -22,4 +22,4 @@ On May 31, Imperial College Business School will be sponsoring and hosting a Res
 
 If you are interested in participating in this event, please make sure to register [**here**](https://forms.gle/6bpxL3g8Kq5UMLiQA) by May 21, 2024.
 
-<img src="/assets/QRF_WBS.jpg" style="max-width: 700px; height: 900px;">
+<img src="/assets/Research Accelerator Poster.png" style="max-width: 700px; height: 900px;">
