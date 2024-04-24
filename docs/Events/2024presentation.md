@@ -30,3 +30,5 @@ The event is organized in collaboration with LQC and includes an opportunity for
 
 If you are interested in participating in this event, please make sure to register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdy5_lVkQql5OZbxHSX3JOaJKDIM62lWzy8OM6QhkOk_Claxg/viewform).
 
+If you have any questions, please reach out to Inka Luhrs at inka.luhrs@bayes.city.ac.uk
+
