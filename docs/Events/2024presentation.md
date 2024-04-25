@@ -24,7 +24,7 @@ This is why we are putting together a half-day workshop to address this topic: O
 - Kevin Corley (Imperial)
 - Joelle Evans (Bayes)
 - Jen Rhymer (UCL)
-- Ruben Van Verven (Bayes)
+- Ruben Van Werven (Bayes)
  
 The event is organized in collaboration with LQC and includes an opportunity for networking over drinks & nibbles after the workshop.
 
