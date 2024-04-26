@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 ---
 
+<meta name="google-site-verification" content="BjNMZtV4SiWUtwwCgyy5T2le8WTsr2af80GrdvBfJnU" />
 
 # London Qualitative Community
 
