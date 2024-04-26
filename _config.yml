@@ -1,6 +1,8 @@
 title: LQC
 description: A community of qualitative researchers in London
 theme: just-the-docs
+plugins:
+  - jekyll-sitemap
 
 url: https://londonqualcommunity.com
 
