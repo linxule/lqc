@@ -53,6 +53,8 @@ Meet the school representatives (in school alphabetical order):
 ## University of Oxford
 
 - [Wendy Kilminster](https://www.sbs.ox.ac.uk/about-us/people/wendy-kilminster) (Faculty Representative)
+- [Jadwiga Supryn](https://www.sbs.ox.ac.uk/about-us/people/jadwiga-supryn) (Student Representative)
+- [Lorenzo Maulini](https://www.sbs.ox.ac.uk/about-us/people/lorenzo-maulini) (Student Representative)
 
 ## University of Southampton
 
