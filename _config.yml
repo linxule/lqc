@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://londonqualcommunity.com
 
 aux_links:
-  GitHub Repository: https://github.com/linxule/lqc
+  LQC on GitHub: https://github.com/linxule/lqc
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
