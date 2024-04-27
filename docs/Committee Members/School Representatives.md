@@ -63,4 +63,5 @@ Meet the school representatives (in school alphabetical order):
 ## Warwick Business School
 
 - [Hila Lifshitz-Assaf](https://www.wbs.ac.uk/about/person/LIFSHITZH/) (Faculty Representative)
+- [Marjolaine Rostain](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) (Faculty Representative)
 
