@@ -2,7 +2,7 @@
 layout: default
 title: Data Visualization Workshop [Imperial College Business School, 09/05/2024]
 nav_order: 2024a
-parent: Upcoming Events
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
