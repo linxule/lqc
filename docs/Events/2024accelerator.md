@@ -3,7 +3,7 @@ layout: default
 title: Research Accelerator [Scale Space White City, 31/05/2024]
 nav_order: 2024a
 parent: Upcoming Events
-grand_parent: Events
+grand_parent: Past Events
 has_children: false
 has_toc: true
 ---
@@ -21,5 +21,9 @@ has_toc: true
 On May 31, Imperial College Business School will be sponsoring and hosting a Research Accelerator at Scale Space White City. This informal gathering of the LQC will include spaces for working or co-working with colleagues, 'ask the expert' tables, and a drink reception. 
 
 If you are interested in participating in this event, please make sure to register [**here**](https://forms.gle/6bpxL3g8Kq5UMLiQA) by May 21, 2024.
+
+## Pictures
+
+Pictures from the event can be found [here]([https://drive.google.com/drive/folders/11NfEMc8SQ-Gd95k-pwGPrTzy65poNICx?usp=sharing](https://drive.google.com/drive/folders/1piYFxraNgImSFUoFEZEpFg6bcMCz-7Zw?usp=sharing))
 
 <img src="/assets/Research Accelerator Poster.png" style="max-width: 100%; height: auto;">
