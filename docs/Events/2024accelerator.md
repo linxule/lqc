@@ -24,6 +24,6 @@ If you are interested in participating in this event, please make sure to regist
 
 ## Pictures
 
-Pictures from the event can be found [here]([https://drive.google.com/drive/folders/11NfEMc8SQ-Gd95k-pwGPrTzy65poNICx?usp=sharing](https://drive.google.com/drive/folders/1piYFxraNgImSFUoFEZEpFg6bcMCz-7Zw?usp=sharing))
+Pictures from the event can be found [here]([https://drive.google.com/drive/folders/1piYFxraNgImSFUoFEZEpFg6bcMCz-7Zw?usp=drive_link])
 
 <img src="/assets/Research Accelerator Poster.png" style="max-width: 100%; height: auto;">
