@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Accelerator [Scale Space White City, 31/05/2024]
-nav_order: 2024a
+nav_order: 2024b
 parent: Past Events
 grand_parent: Events
 has_children: false
