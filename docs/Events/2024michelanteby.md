@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Michel Anteby talk on book "The Interloper" + Q&A/Panel [University of Cambridge Judge Business School, 07/03/2024]
+title: Michel Anteby talk on book "The Interloper" + Q&A/Panel [University of Cambridge Judge Business School, 07/03/2025]
 nav_order: 2024b
 parent: Upcoming Events
 grand_parent: Events
@@ -8,9 +8,9 @@ has_children: false
 has_toc: true
 ---
 
-# Michel Anteby talk on book "The Interloper" + Q&A/Panel [University of Cambridge Judge Business School, 07/03/2024]
+# Michel Anteby talk on book "The Interloper" + Q&A/Panel [University of Cambridge Judge Business School, 07/03/2025]
 
-**Date:** Friday, March 7, 2024
+**Date:** Friday, March 7, 2025
 
 **Time:** 2 PM - 5 PM
 
