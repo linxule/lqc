@@ -16,7 +16,7 @@ has_toc: true
 
 **Location:** WBS, Scarman Road, CV4 7AL Coventry
  
-**Registration:** https://docs.google.com/forms/d/e/1FAIpQLScmZfhXuanjlKgL-G2lcsU7MDUzxhaWq7TVvmsmrqqq2LGWlw/viewform?usp=send_form 
+**Registration:** If you are interested in participating in this event, please make sure to register [**here**](https://docs.google.com/forms/d/e/1FAIpQLScmZfhXuanjlKgL-G2lcsU7MDUzxhaWq7TVvmsmrqqq2LGWlw/viewform?usp=send_form).
 
 If you have any questions, please reach out to the Steering Committee:
 londonqualitativecommunity@gmail.com
