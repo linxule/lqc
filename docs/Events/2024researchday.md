@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Research Day [Warwick Business School, 09/11/2024]
+title: 2024 Research Day [Warwick Business School, 09/12/2024]
 nav_order: 2024b
 parent: Upcoming Events
 grand_parent: Events
@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-# 2024 Research Day [Warwick Business School, 09/11/2024]
+# 2024 Research Day [Warwick Business School, 09/12/2024]
 
 **Date:** Monday, December 9, 2024
 
