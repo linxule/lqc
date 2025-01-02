@@ -4,7 +4,7 @@ title: Resources
 nav_order: 4
 ---
 
-# London Qualitative Community Resource Lists
+# London⁺ Qualitative Community Resource Lists
 
 We have compiled resources recommended by our community members and related others that may be helpful to fellow scholars using qualitative methods. This is a work in progress; we will be continuing to add details and categorize the different resources in useful ways over rhe coming months.
 
