@@ -10,7 +10,7 @@ has_toc: false
 
 # Steering Committee
 
-Comprising both esteemed and early career qualitative researchers, the steering committee guides the direction and growth of the London Qualitative Community. Together, we strive to foster an inclusive environment that nurtures learning, fosters meaningful dialogue, and advances the frontiers of qualitative research in management studies. 
+Comprising both esteemed and early career qualitative researchers, the steering committee guides the direction and growth of the London⁺ Qualitative Community. Together, we strive to foster an inclusive environment that nurtures learning, fosters meaningful dialogue, and advances the frontiers of qualitative research in management studies. 
 
 Meet the steering committee (in alphabetical order):
 
