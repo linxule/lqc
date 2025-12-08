@@ -29,6 +29,12 @@ a {
   transform: translateY(-1px);
 }
 
+// Match primary button to theme's link color
+.btn-primary {
+  background-color: var(--link-color);
+  border-color: var(--link-color);
+}
+
 // Better focus states (accessibility)
 a:focus,
 button:focus,
