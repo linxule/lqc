@@ -6,6 +6,7 @@ url: https://londonqualcommunity.com
 
 aux_links:
   L+QC on GitHub: https://github.com/linxule/lqc
+  LinkedIn: https://www.linkedin.com/groups/12947079/
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
@@ -18,6 +19,14 @@ favicon_ico: "/assets/logos/icon.png"
 # Supports true (default) or false
 search_enabled: true
 
-# Hide pages 
+# Automatic freshness indicator
+last_edit_timestamp: true
+last_edit_time_format: "%b %d, %Y"
+
+# Back to top for long pages
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Hide pages
 exclude:
   - discussions/
