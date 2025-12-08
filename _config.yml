@@ -1,5 +1,5 @@
 title: L+QC
-description: A community of qualitative researchers in London
+description: A community of qualitative researchers across the UK
 theme: just-the-docs
 
 url: https://londonqualcommunity.com
@@ -18,10 +18,6 @@ favicon_ico: "/assets/logos/icon.png"
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
-
-# Automatic freshness indicator
-last_edit_timestamp: true
-last_edit_time_format: "%b %d, %Y"
 
 # Back to top for long pages
 back_to_top: true
