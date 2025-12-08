@@ -21,7 +21,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.4)
       concurrent-ruby (~> 1.0)
-    jekyll (4.3.3)
+    jekyll (4.3.4)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -84,7 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   google-protobuf (>= 4.27.5)
-  jekyll (~> 4.3.3)
+  jekyll (~> 4.3.4)
   just-the-docs (= 0.10.1)
   rexml (>= 3.3.9)
   webrick (>= 1.8.2)
