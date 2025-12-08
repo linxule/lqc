@@ -1,11 +1,11 @@
-title: LQC
+title: L+QC
 description: A community of qualitative researchers in London
 theme: just-the-docs
 
 url: https://londonqualcommunity.com
 
 aux_links:
-  LQC on GitHub: https://github.com/linxule/lqc
+  L+QC on GitHub: https://github.com/linxule/lqc
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark

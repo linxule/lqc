@@ -18,7 +18,7 @@ has_toc: true
 
 **Sponsor:** Imperial College Business School
 
-On May 31, Imperial College Business School will be sponsoring and hosting a Research Accelerator at Scale Space White City. This informal gathering of the LQC will include spaces for working or co-working with colleagues, 'ask the expert' tables, and a drink reception. 
+On May 31, Imperial College Business School will be sponsoring and hosting a Research Accelerator at Scale Space White City. This informal gathering of the L+QC will include spaces for working or co-working with colleagues, 'ask the expert' tables, and a drink reception. 
 
 If you are interested in participating in this event, please make sure to register [**here**](https://forms.gle/6bpxL3g8Kq5UMLiQA) by May 21, 2024.
 

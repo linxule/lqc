@@ -8,7 +8,7 @@ has_toc: false
 search_exclude: true
 ---
 
-# London Qualitative Community: External Event Board
+# London+ Qualitative Community: External Event Board
 
 This dedicated space allows our members to freely share and discover qualitative research events (conferences, workshops, seminars, and more) happening around London. 
 

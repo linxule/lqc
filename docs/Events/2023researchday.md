@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fall 2023 London Qualitative Community Research Day [UCL School of Management, 29/11/2023]
+title: Fall 2023 London+ Qualitative Community Research Day [UCL School of Management, 29/11/2023]
 nav_order: 2023a
 parent: Past Events
 grand_parent: Events
@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-# Fall 2023 London Qualitative Community Research Day [UCL School of Management, 29/11/2023]
+# Fall 2023 London+ Qualitative Community Research Day [UCL School of Management, 29/11/2023]
 
 **Date:** Wednesday, November 29, 2023
 
@@ -16,7 +16,7 @@ has_toc: true
 
 **Location:** UCL School of Management [map](https://www.google.com/maps/place/UCL+School+of+Management/@51.5049489,-0.0195006,15z/data=!4m2!3m1!1s0x0:0x35b2dc5cc875d97?sa=X&ved=1t:2428&ictx=111)
 
-On November 29, 2023 we hosted our first London Qualitative Community Research Day at UCL School of Management. Through different panels and activities, around 80 qualitative scholars from universities in and around London came together to discuss their work and ask established experts burning questions about doing qualitative research. 
+On November 29, 2023 we hosted our first London+ Qualitative Community Research Day at UCL School of Management. Through different panels and activities, around 80 qualitative scholars from universities in and around London came together to discuss their work and ask established experts burning questions about doing qualitative research. 
 
 ## Event Agenda
 
