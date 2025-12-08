@@ -26,7 +26,7 @@ This is why we are putting together a half-day workshop to address this topic: O
 - Jen Rhymer (UCL)
 - Ruben Van Werven (Bayes)
  
-The event is organized in collaboration with LQC and includes an opportunity for networking over drinks & nibbles after the workshop.
+The event is organized in collaboration with L+QC and includes an opportunity for networking over drinks & nibbles after the workshop.
 
 If you are interested in participating in this event, please make sure to register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdy5_lVkQql5OZbxHSX3JOaJKDIM62lWzy8OM6QhkOk_Claxg/viewform).
 
