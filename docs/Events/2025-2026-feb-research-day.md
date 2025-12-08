@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-# 2025=2026 Annual Research Day [Bayes Business School, 06/02/2026]
+# 2025-2026 Annual Research Day [Bayes Business School, 06/02/2026]
 
 **Date:** Friday, February 6, 2026
 
