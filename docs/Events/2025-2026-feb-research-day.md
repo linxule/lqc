@@ -20,7 +20,7 @@ has_toc: true
 
 **Details:**
 
-We are delighted to announce that the Annual Research Day of the London+ Qualitative Community (L+QC) will be hosted on Friday, 6th February 2026, at Bayes Business School. The conference will be held at the Bunhill Row Campus (EC1Y 8TZ) from 9:00 - 18:00 GMT, followed by an evening networking reception.
+We are delighted to announce that the Annual Research Day of the London⁺ Qualitative Community (L⁺QC) will be hosted on Friday, 6th February 2026, at Bayes Business School. The conference will be held at the Bunhill Row Campus (EC1Y 8TZ) from 9:00 - 18:00 GMT, followed by an evening networking reception.
 
 The Research Day provides a valuable opportunity for qualitative researchers in management from across the Greater London area. The event aims not only to bring together like-minded researchers but also to foster collaborations between institutions.  
 
@@ -28,7 +28,7 @@ For PhD students, the day offers multiple opportunities to present research and 
 
 Previous Research Days have attracted over 100 attendees, and we are eager to build on this success.
 
-If you have any questions about the event, please don't hesitate to reach out to the event Organising Committee:. We hope to see you there!
+If you have any questions about the event, please don't hesitate to reach out to the event Organising Committee. We hope to see you there!
 Best Wishes,
 
 Organising Committee

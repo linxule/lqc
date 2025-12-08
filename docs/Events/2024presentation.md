@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presenting Qualitative Research [Bayes Business School, 17/06/2024]
-nav_order: 2024c
+nav_order: 2024d
 parent: Past Events
 grand_parent: Events
 has_children: false

@@ -9,4 +9,4 @@ search_exclude: true
 
 # Discussions
 
-Share you ideas and ask the community members questions!
+Share your ideas and ask the community members questions!

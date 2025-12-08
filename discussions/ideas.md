@@ -10,4 +10,4 @@ search_exclude: true
 
 # Ideas
 
-This is the page for shaing ideas.
+This is the page for sharing ideas.

@@ -6,7 +6,7 @@ nav_order: 4
 
 # London⁺ Qualitative Community Resource Lists
 
-We have compiled resources recommended by our community members and related others that may be helpful to fellow scholars using qualitative methods. This is a work in progress; we will be continuing to add details and categorize the different resources in useful ways over rhe coming months.
+We have compiled resources recommended by our community members and related others that may be helpful to fellow scholars using qualitative methods. This is a work in progress; we will be continuing to add details and categorize the different resources in useful ways over the coming months.
 
 The spreadsheet embedded below has tabs with different resource types, from journal articles to useful websites and research tools. You can scroll within each tab to see more resources, notes on the resources, and links where applicable.  
 
