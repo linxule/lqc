@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Michel Anteby talk on book "The Interloper" + Q&A/Panel [University of Cambridge Judge Business School, 07/03/2025]
-nav_order: 2024b
+nav_order: 2025a
 parent: Past Events
 grand_parent: Events
 has_children: false
