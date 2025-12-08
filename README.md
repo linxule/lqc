@@ -1,4 +1,4 @@
-# London+ Qualitative Community Website
+# London⁺ Qualitative Community Website
 
 This is the repository for [londonqualcommunity.com](https://londonqualcommunity.com).
 

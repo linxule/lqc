@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Accelerator [Scale Space White City, 31/05/2024]
-nav_order: 2024b
+nav_order: 2024c
 parent: Past Events
 grand_parent: Events
 has_children: false
@@ -12,7 +12,7 @@ has_toc: true
 
 **Date:** Friday, May 31, 2024
 
-**Time:** 1PM - 5 PM
+**Time:** 1 PM - 5 PM
 
 **Location:** Scale Space White City [map](https://www.google.com/maps/place/Scale+Space+White+City/@51.5138649,-0.2227063,15z/data=!4m2!3m1!1s0x0:0x90762c3ef2a67d2c?sa=X&ved=1t:2428&ictx=111)
 
@@ -26,4 +26,4 @@ If you are interested in participating in this event, please make sure to regist
 
 Pictures from the event can be found [here](https://drive.google.com/drive/folders/1piYFxraNgImSFUoFEZEpFg6bcMCz-7Zw?usp=drive_link)
 
-<img src="/assets/Research Accelerator Poster.png" style="max-width: 100%; height: auto;">
+<img src="/assets/Research Accelerator Poster.png" alt="Research Accelerator event poster" style="max-width: 100%; height: auto;">

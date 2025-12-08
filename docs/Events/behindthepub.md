@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Behind the Pub [LSE, 17/02/2025]
-nav_order: 2024c
-parent: Upcoming Events
+nav_order: 2025b
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
@@ -22,6 +22,4 @@ At this workshop, Lidiia Pletneva and Marjolaine Rostain will present the backgr
 
 Organized and hosted by Lidiia Pletneva (LSE).
 
-If you are interested in participating in this event, please make sure to register [**here**](https://docs.google.com/forms/d/e/1FAIpQLScJgDKSlKR-c0B8IdL33O_515r_qHBej3cUdDgKWnR9bkwNqw/closedform) by Jan 31, 2025.
-
-**As of Jan 31, we have reached the max number of attendees for this workshop. Please email us at <londonqualitativecommunity@gmail.com> if you would like to be added to our waiting list.**
+*Registration for this event is now closed.*

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2024 Research Day [Warwick Business School, 09/12/2024]
-nav_order: 2024b
+nav_order: 2024e
 parent: Past Events
 grand_parent: Events
 has_children: false

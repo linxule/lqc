@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualization Workshop [Imperial College Business School, 09/05/2024]
-nav_order: 2024a
+nav_order: 2024b
 parent: Past Events
 grand_parent: Events
 has_children: false
@@ -24,4 +24,4 @@ If you are interested in participating in this event, please make sure to regist
 
 Pictures from the event can be found [here](https://drive.google.com/drive/folders/1SAf2PWBPPfyWcU9tnNBpoPhD1o7JcCU2?usp=sharing)
 
-<img src="/assets/Data Visualization Workshop_Poster.png" style="max-width: 100%; height: auto;">
+<img src="/assets/Data Visualization Workshop_Poster.png" alt="Data Visualization Workshop poster" style="max-width: 100%; height: auto;">

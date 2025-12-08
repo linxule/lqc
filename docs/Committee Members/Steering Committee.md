@@ -40,27 +40,27 @@ Meet the steering committee (in alphabetical order):
 
 <div class="person">
 <p><a href="https://www.imperial.ac.uk/people/k.corley"><b>Kevin Corley</b></a> (<a href="mailto:k.corley@imperial.ac.uk">Email</a>)</p>
-<img src="/assets/kevin.jpg" style="max-width: 300px; height: auto;">
+<img src="/assets/kevin.jpg" alt="Kevin Corley" style="max-width: 300px; height: auto;">
 </div>
 
 <div class="person">
 <p><a href="https://www.mgmt.ucl.ac.uk/people/martinapizzinato"><b>Martina Pizzinato</b></a> (<a href="mailto:martina.pizzinato.21@ucl.ac.uk">Email</a>)</p>
-<img src="/assets/martina.JPG" style="max-width: 300px; height: auto;">
+<img src="/assets/martina.JPG" alt="Martina Pizzinato" style="max-width: 300px; height: auto;">
 </div>
 
 <div class="person">
 <p><a href="https://www.wbs.ac.uk/about/person/marjolaine-rostain/"><b>Marjolaine Rostain</b></a> (<a href="mailto:Marjolaine.Rostain@wbs.ac.uk">Email</a>)</p>
-<img src="/assets/Marjolaine.jpg" style="max-width: 300px; height: auto;">
+<img src="/assets/Marjolaine.jpg" alt="Marjolaine Rostain" style="max-width: 300px; height: auto;">
 </div>
 
 <div class="person">
 <p><a href="https://www.mgmt.ucl.ac.uk/people/shivaangsharma"><b>Shivaang Sharma</b></a> (<a href="mailto:shivaang.sharma.19@ucl.ac.uk">Email</a>)</p>
-<img src="/assets/shivaang.jpg" style="max-width: 300px; height: auto;">
+<img src="/assets/shivaang.jpg" alt="Shivaang Sharma" style="max-width: 300px; height: auto;">
 </div>
 
 <div class="person">
 <p><a href="https://www.london.edu/phd/profiles/kendall-smith"><b>Kendall Smith</b></a> (<a href="mailto:ksmith@london.edu">Email</a>)</p>
-<img src="/assets/KES_LBS Photo.jpg" style="max-width: 300px; height: auto;">
+<img src="/assets/KES_LBS Photo.jpg" alt="Kendall Smith" style="max-width: 300px; height: auto;">
 </div>
 
 </div>

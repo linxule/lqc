@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Online Winter Writing Sessions [Online, 17/01/2025-21/02/2025]
-nav_order: 2024c
-parent: Upcoming Events
+nav_order: 2025a
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
