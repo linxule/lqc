@@ -16,7 +16,9 @@ has_toc: true
 
 **Location:** Bayes Business School, Bunhill Row Campus (EC1Y 8TZ)
  
-**Registration:** Registration, including the Call for Papers and Abstracts, will open soon. Follow here for timely updates!
+**Registration:** Register here: https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com
+
+The deadline for the Call for Papers and Abstract Submission (CFP) is **Friday, January 18**, 2026 at 23:59 GMT. Registration for all other attendees will close on **Monday, January 22**, 2026 at 23:59 GMT. Please see the link for CFP and registration details, as well as contact information for our lovely Bayes organisers.
 
 **Details:**
 
