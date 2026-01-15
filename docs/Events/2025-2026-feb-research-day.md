@@ -16,23 +16,34 @@ has_toc: true
 
 **Location:** Bayes Business School, Bunhill Row Campus (EC1Y 8TZ)
  
-**Registration:** Register here: https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com
+**Registration:** Register here: [https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com](https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com )
 
-The deadline for the Call for Papers and Abstract Submission (CFP) is **Friday, January 18**, 2026 at 23:59 GMT. Registration for all other attendees will close on **Monday, January 22**, 2026 at 23:59 GMT. Please see the link for CFP and registration details, as well as contact information for our lovely Bayes organisers.
+The deadline for the Call for Papers and Abstract Submission (CFP) is **Monday, 19 January 2026 at 23:59 GMT**.   
+
+The deadline for simple registration is **Friday, 23 January 2026**.
 
 **Details:**
 
-We are delighted to announce that the Annual Research Day of the London⁺ Qualitative Community (L⁺QC) will be hosted on Friday, 6th February 2026, at Bayes Business School. The conference will be held at the Bunhill Row Campus (EC1Y 8TZ) from 9:00 - 18:00 GMT, followed by an evening networking reception.
+We are delighted to announce that the Annual Research Day of the London+ Qualitative Community will take place on Friday, 6 February 2026, at Bayes Business School, Bunhill Row Campus (EC1Y 8TZ), from 9:00 to 18:00 GMT.
 
-The Research Day provides a valuable opportunity for qualitative researchers in management from across the Greater London area. The event aims not only to bring together like-minded researchers but also to foster collaborations between institutions.  
+This third edition, following two successful previous events, is dedicated to bringing together qualitative researchers from across the UK to meet, discuss, and engage in rich methodological and empirical conversations.
 
-For PhD students, the day offers multiple opportunities to present research and receive constructive feedback. This includes two full paper presentation sessions, each led by senior discussants, and seven theme-based idea incubators for presenting work at the idea stage, facilitated by one to two academics.  
+The day will include panel discussions, roundtables, networking opportunities, and paper feedback sessions.
 
-Previous Research Days have attracted over 100 attendees, and we are eager to build on this success.
+Everyone is welcome--whether you simply wish to participate in discussions or would like to share your work. For those interested, there will be two opportunities to present and receive feedback on ongoing research.
 
-If you have any questions about the event, please don't hesitate to reach out to the event Organising Committee. We hope to see you there!
-Best Wishes,
+The first opportunity is a Research Roundtable, which provides an opportunity to discuss early-stage research ideas with senior academics in a group format. To participate in this, interested applicants need to submit an abstract of up to 2 pages.  
+The second opportunity allows scholars to present full works-in-progress papers, with feedback provided by senior scholars dedicated to this purpose. In total, eight papers will be selected. 
+To  register for the day to simply engage in discussion and networking or to submit either the abstract or your paper, please use this link: 
+[https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com](https://url.uk.m.mimecastprotect.com/s/L365CzBvqTMp52Emi4fYF9ds6Y?domain=docs.google.com ) 
 
+**The deadline for the Call for Papers and Abstract Submission (CFP) is Monday, 19 January 2026 at 23:59 GMT**.   
+
+**The deadline for simple registration is Friday, 23 January 2026**.
+
+Please do reach out to us if you have any further queries. 
+
+Best Wishes, 
 Organising Committee
 Anusheela Brahmachary (anusheela.brahmachary@bayes.city.ac.uk)
 Aakif Rahman (aakif.rahman@bayes.city.ac.uk)
