@@ -23,7 +23,7 @@ Meet the school representatives (in school alphabetical order):
 - [Ileana Stigliani](https://www.imperial.ac.uk/people/i.stigliani) (Faculty Representative)
 - Priyal Singh (Student Representative)
 
-## King's College London
+## King's College London Business School
 
 - [Johann Fortwengel](https://www.kcl.ac.uk/people/johann-fortwengel) (Faculty Representative)
 - Elaine Siu (Student Representative)
@@ -39,7 +39,7 @@ Meet the school representatives (in school alphabetical order):
 - [Lidiia Pletneva](https://www.lse.ac.uk/management/people/academic-staff/lpletneva) (Faculty Representative)
 - Tanya Alaaldin (Student Representative)
 
-## Queen Mary University of London
+## Queen Mary University of London, School of Business and Management
 
 - [Clarissa Weber](https://www.qmul.ac.uk/sbm/staff/academic/profiles/dr-clarissa-e-weber.html) (Faculty Representative)
 
