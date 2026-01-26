@@ -8,7 +8,7 @@ nav_order: 1
 
 ![Community gathering at 2023 Research Day](assets/LQC.jpg)
 
-*80+ qualitative researchers from 12+ UK universities. Building community since 2023.*
+*300+ qualitative researchers from 12+ UK universities. Building community since 2023.*
 
 Welcome to the official website for the London⁺ Qualitative Community (L⁺QC)!
 
