@@ -28,11 +28,15 @@ Meet the school representatives (in school alphabetical order):
 
 ## London Business School
 
-- [Minseo Beak](https://www.london.edu/faculty-and-research/faculty-profiles/m/minseo-baek) (Faculty Representative)
+- [Ussama Kahn](https://www.london.edu/faculty-and-research/faculty-profiles/u/ussama-ahmed-khan) (Faculty Representative)
 
 ## London School of Economics and Political Science
 
 - [Lidiia Pletneva](https://www.lse.ac.uk/management/people/academic-staff/lpletneva) (Faculty Representative)
+
+## Queen Mary University of London
+
+- [Clarissa Weber](https://www.qmul.ac.uk/sbm/staff/academic/profiles/dr-clarissa-e-weber.html) (Faculty Representative)
 
 ## UCL School of Management
 
@@ -45,10 +49,11 @@ Meet the school representatives (in school alphabetical order):
 ## University of Cambridge
 
 - [Madeleine Rauch](https://www.rauchm.com/) (Faculty Representative)
+- [Xule Lin](https://www.imperial.ac.uk/people/xule.lin) (Student Representative)
 
 ## University of Liverpool
 
-- [Gregory Fetzer](https://www.liverpool.ac.uk/management/staff/gregory-fetzer/) (Faculty Representative)
+- [Tomi Koljonen](https://www.liverpool.ac.uk/people/tomi-koljonen) (Faculty Representative)
 
 ## University of Oxford
 
