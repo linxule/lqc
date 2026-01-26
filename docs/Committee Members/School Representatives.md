@@ -16,23 +16,28 @@ Meet the school representatives (in school alphabetical order):
 ## Bayes Business School
 
 - [Joelle Evans](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans) (Faculty Representative)
+- Anusheela Brahmachary (Student Representative)
 
 ## Imperial College Business School
 
 - [Ileana Stigliani](https://www.imperial.ac.uk/people/i.stigliani) (Faculty Representative)
-- [Xule Lin](https://www.imperial.ac.uk/people/xule.lin) (Student Representative)
+- Priyal Singh (Student Representative)
 
 ## King's College London
 
 - [Johann Fortwengel](https://www.kcl.ac.uk/people/johann-fortwengel) (Faculty Representative)
-
+- Elaine Siu (Student Representative)
+- Vinayak Sharma (Student Representative)
+ 
 ## London Business School
 
 - [Ussama Kahn](https://www.london.edu/faculty-and-research/faculty-profiles/u/ussama-ahmed-khan) (Faculty Representative)
+- Kendall Smith (Student Representative, Steering Committee Member)
 
 ## London School of Economics and Political Science
 
 - [Lidiia Pletneva](https://www.lse.ac.uk/management/people/academic-staff/lpletneva) (Faculty Representative)
+- Tanya Alaaldin (Student Representative)
 
 ## Queen Mary University of London
 
@@ -41,32 +46,38 @@ Meet the school representatives (in school alphabetical order):
 ## UCL School of Management
 
 - [Jen Rhymer](https://www.mgmt.ucl.ac.uk/people/jenniferrhymer) (Faculty Representative)
+- Chesta Ahuja (Student Representative)
+- Sara Estevez Cores (Student Representative)
 
-## University of Bath
+## University of Bath, School of Management
 
 - [Poornika Anantha Ramakrishnan](https://researchportal.bath.ac.uk/en/persons/poornika-anantha-ramakrishnan) (Faculty Representative)
 
-## University of Cambridge
+## University of Cambridge, Judge Business School
 
 - [Madeleine Rauch](https://www.rauchm.com/) (Faculty Representative)
-- [Xule Lin](https://www.imperial.ac.uk/people/xule.lin) (Student Representative)
+- Tirza Gapp (Student Representative)
 
-## University of Liverpool
+## University of Liverpool Business School
 
 - [Tomi Koljonen](https://www.liverpool.ac.uk/people/tomi-koljonen) (Faculty Representative)
+- Mya Kirkwood (Student Representative)
 
-## University of Oxford
+## University of Oxford, Saïd Business School
 
 - [Wendy Kilminster](https://www.sbs.ox.ac.uk/about-us/people/wendy-kilminster) (Faculty Representative)
 - [Jadwiga Supryn](https://www.sbs.ox.ac.uk/about-us/people/jadwiga-supryn) (Student Representative)
 - [Lorenzo Maulini](https://www.sbs.ox.ac.uk/about-us/people/lorenzo-maulini) (Student Representative)
 
-## University of Southampton
+## University of Southampton Business School
 
 - [Gloria Kutscher](https://www.southampton.ac.uk/people/5z6trn/doctor-gloria-kutscher) (Faculty Representative)
+- Fatima Ali (Student Representative)
 
-## Warwick Business School
+## University of Warwick Business School
 
 - [Hila Lifshitz-Assaf](https://www.wbs.ac.uk/about/person/LIFSHITZH/) (Faculty Representative)
 - [Marjolaine Rostain](https://www.wbs.ac.uk/about/person/marjolaine-rostain/) (Faculty Representative)
+- Sara Di Diego (Student Representative)
+- Ziyu Wang (Student Representative)
 
