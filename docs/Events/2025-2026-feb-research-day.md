@@ -41,7 +41,7 @@ To  register for the day to simply engage in discussion and networking or to sub
 
 **The deadline for simple registration is Friday, 23 January 2026**.
 
-Please do reach out to us if you have any further queries. 
+Please do reach out to us if you have any further queries.  
 
 Best Wishes, 
 *2026 L+QC Research Day Organising Committee*
