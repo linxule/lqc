@@ -54,12 +54,12 @@ Best Wishes,
 
 [Marjolaine Rostain](https://www.wbs.ac.uk/about/person/marjolaine-rostain/)
 
-[Anusheela Brahmachary](anusheela.brahmachary@bayes.city.ac.uk)
+Anusheela Brahmachary (email with any questions: [anusheela.brahmachary@bayes.city.ac.uk](anusheela.brahmachary@bayes.city.ac.uk) )
 
-[Aakif Rahman](aakif.rahman@bayes.city.ac.uk)
+Aakif Rahman (email with any questions: [aakif.rahman@bayes.city.ac.uk](aakif.rahman@bayes.city.ac.uk) )
 
-[Debjyoti Chakravorty](debjyoti.chakravorty@bayes.city.ac.uk)
+Debjyoti Chakravorty (email with any questions: [debjyoti.chakravorty@bayes.city.ac.uk](debjyoti.chakravorty@bayes.city.ac.uk) )
 
-[Kabir M Joshi](kabir.joshi@bayes.city.ac.uk)
+Kabir M Joshi (kabir.joshi@bayes.city.ac.uk)
 
 You can also reach the L+QC Steering Committee at londonqualitativecommunity@gmail.com
