@@ -21,10 +21,17 @@ No registration needed!
 ** Dates and Speakers:**
 
 • 16 January 2026 (10:00–11:00 AM) – Mina Beigi (USBS)
+
 • 23 January 2026 (2:00-3:00 PM) – Ann Langley (HEC Montréal and WBS)
+
 • 30 January 2026 (10:00–11:00 AM) – Kevin Corley (Imperial College London)
+
+(Break week--L+QC Annual Research Day)
+
 • 13 February 2026 (10:00–11:00 AM) – Madeleine Rauch (University of Cambridge)
+
 • 20 February 2026 (10:00–11:00 AM) – Davide Ravasi (UCL)
+
 • 27 February 2026 (10:00–11:00 AM) – Mark de Rond (University of Cambridge)
 
-Please contact the L+QC Steering Committee at londonqualitativecommunity@gmail.com with any questions.
+Please contact the L+QC Steering Committee at [londonqualitativecommunity@gmail.com](londonqualitativecommunity@gmail.com} with any questions.
