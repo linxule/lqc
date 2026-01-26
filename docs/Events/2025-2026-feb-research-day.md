@@ -46,7 +46,7 @@ Please do reach out to us if you have any further queries.
 Best Wishes, 
 *2026 L+QC Research Day Organising Committee*
 
-[Joelle Evans](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans) (Faculty Representative)
+[Joelle Evans](https://www.bayes.city.ac.uk/faculties-and-research/experts/joelle-evans)
 
 [Daisy Chung](https://www.bayes.citystgeorges.ac.uk/faculties-and-research/experts/daisy-chung)
 
