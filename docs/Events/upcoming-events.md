@@ -8,7 +8,6 @@ has_toc: true
 ---
 
 # Upcoming Events
-
 {: .no_toc }
 
 1. TOC
