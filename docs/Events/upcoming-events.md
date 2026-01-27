@@ -4,14 +4,14 @@ title: Upcoming Events
 nav_order: 1
 parent: Events
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # Upcoming Events
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Click on the events below to see detailed event information:
   </summary>
   {: .text-delta }
 1. TOC
