@@ -5,13 +5,19 @@ nav_order: 1
 parent: Events
 has_children: true
 has_toc: true
-child_nav_order: reversed
 ---
 
 # Upcoming Events
 
 {: .note }
 > Check the **Table of Contents** below for detailed event information.
+
+{: .no_toc }
+
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 {: .note }
 > Quick calendar view - see all upcoming L+QC events at a glance.
