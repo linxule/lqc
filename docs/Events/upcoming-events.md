@@ -4,26 +4,15 @@ title: Upcoming Events
 nav_order: 1
 parent: Events
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Upcoming Events
 
-<details open markdown="block">
-  <summary>
-    Click on the events below to see detailed event information:
-  </summary>
-  {: .text-delta }
+{: .note }
+Quick calendar view--see all upcoming L+QC events at a glance.
 
-  2. TOC
-{:toc}
-</details>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&bgcolor=%23ffffff&src=bG9uZG9ucXVhbGl0YXRpdmVjb21tdW5pdHlAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 {: .note }
-> Click on the events above to see detailed event information.
-
-
-{: .note }
-**Quick calendar view - see all upcoming L+QC events at a glance.**
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&bgcolor=%23ffffff&src=bG9uZG9ucXVhbGl0YXRpdmVjb21tdW5pdHlAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+**Click on the event links below to see detailed event information:**
