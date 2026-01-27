@@ -14,7 +14,8 @@ has_toc: false
     Click on the events below to see detailed event information:
   </summary>
   {: .text-delta }
-2. TOC
+
+  2. TOC
 {:toc}
 </details>
 
