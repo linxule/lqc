@@ -42,7 +42,7 @@ Debjyoti Chakravorty [debjyoti.chakravorty@bayes.city.ac.uk](debjyoti.chakravort
 
 Kabir M Joshi [kabir.joshi@bayes.city.ac.uk](kabir.joshi@bayes.city.ac.uk)
 
-
+Pictures from the event can be found [here](https://drive.google.com/drive/u/2/folders/1HJVua29ILsdxPquklr8hvXAbZVLHGoXq)
 
 *A little more about the 2026 event:*
 
