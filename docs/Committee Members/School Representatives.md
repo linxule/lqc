@@ -52,6 +52,7 @@ Meet the school representatives (in school alphabetical order):
 ## University of Bath, School of Management
 
 - [Poornika Anantha Ramakrishnan](https://researchportal.bath.ac.uk/en/persons/poornika-anantha-ramakrishnan) (Faculty Representative)
+- Archana Raghavan (Student Representative)
 
 ## University of Cambridge, Judge Business School
 
