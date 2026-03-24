@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2026 Early Career Qualitative Research Festival [Warwick Business School, 04/06/2026] 
-nav_order: 2026b
+nav_order: 2026e
 parent: Upcoming Events
 grand_parent: Events
 has_children: false
