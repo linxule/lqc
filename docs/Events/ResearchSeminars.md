@@ -2,7 +2,8 @@
 layout: default
 title: Research Seminars
 nav_order: 3
-has_children: true
+parent: Events
+has_children: false
 has_toc: true
 ---
 
