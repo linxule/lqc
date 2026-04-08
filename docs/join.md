@@ -6,7 +6,7 @@ nav_order: 5
 
 # Join the London⁺ Qualitative Community
 
-<img src="/assets/[LQC] Logo_LightGray.png" alt="L+QC Logo" style="max-width: auto; height: 300px;">
+<img src="/assets/[LQC] Logo_LightGray.png" alt="L+QC Logo" style="max-width: 100%; height: 300px;">
 
 {: .note }
 > Join our community of qualitative researchers from across the UK. Get updates on events, resources, and opportunities to connect with fellow scholars.
