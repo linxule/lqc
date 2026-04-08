@@ -28,18 +28,25 @@ exclude:
   - discussions/
   - CLAUDE.md
 
-# Default front matter for event pages.
-# New events under docs/Events/ inherit layout and has_toc automatically —
-# contributors only need to set title, nav_order, and parent.
+# Jekyll `defaults` blocks. Order matters: broader scopes first, narrower
+# scopes later so they can override.
 #
-# NOTE: do NOT set grand_parent here. The scope matches every page under
-# docs/Events/ including section shells (Events.md, upcoming-events.md,
-# past-events.md, ResearchSeminars.md) which themselves have
-# `parent: Events`. Setting `grand_parent: Events` here would create
-# parent == grand_parent and break the JTD nav tree for those sections.
-# JTD walks the parent chain automatically, so grand_parent is not
-# required for 3-level nesting.
+# Scope 1 (sitewide) gives every page an `image:` so jekyll-seo-tag can
+# emit og:image / twitter:image tags. jekyll-seo-tag only reads
+# `page.image` — a site-level `image:` key is ignored for meta tags.
+#
+# Scope 2 (docs/Events) sets `layout` and `has_toc` for event pages so
+# contributors don't need to repeat them in every file's front matter.
+# Do NOT add `grand_parent: Events` here — the scope matches section-shell
+# pages (Events.md, upcoming-events.md, past-events.md, ResearchSeminars.md)
+# which already have `parent: Events`, and `parent == grand_parent` breaks
+# JTD's nav tree. JTD walks the parent chain automatically for nesting.
 defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: /assets/LQC.jpg
   - scope:
       path: "docs/Events"
       type: pages
@@ -64,15 +71,25 @@ callouts:
   highlight:
     color: yellow
 
-# Social & SEO — consumed by jekyll-seo-tag (bundled with just-the-docs)
-# Note: /assets/LQC.jpg is a stopgap — a proper 1200x630 OG card is a
-# later committee task.
-image: /assets/LQC.jpg
+# SEO metadata — consumed by jekyll-seo-tag (bundled with just-the-docs).
+# The site-level og:image comes from the Jekyll `defaults` block above
+# (jekyll-seo-tag only reads page.image, not a site-level image key).
+# The proper 1200x630 OG card is a later committee task — /assets/LQC.jpg
+# is a stopgap and will be cropped differently by each platform.
+#
+# L+QC has no Twitter/X account — LinkedIn is the community's primary
+# social channel. We deliberately do NOT set:
+#  - `twitter:` block: jekyll-seo-tag would emit twitter:site: @ and
+#    twitter:creator: @<author name> which look broken.
+#  - `social.name`: jekyll-seo-tag would mis-consume it as twitter:creator.
+# LinkedIn, Slack, iMessage and other unfurlers read Open Graph tags
+# (og:image/title/description), not twitter-specific tags, so dropping
+# them costs nothing.
+#
+# `social.links` is kept because jekyll-seo-tag uses it for schema.org
+# `sameAs`, which feeds Google's Knowledge Graph.
 author: London⁺ Qualitative Community
-twitter:
-  card: summary_large_image
 social:
-  name: London⁺ Qualitative Community
   links:
     - https://www.linkedin.com/groups/12947079/
     - https://github.com/linxule/lqc
