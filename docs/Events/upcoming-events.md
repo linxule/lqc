@@ -5,6 +5,7 @@ nav_order: 1
 parent: Events
 has_children: true
 has_toc: true
+search_exclude: true
 ---
 
 # Upcoming Events
