@@ -1,23 +1,19 @@
 ---
-layout: default
 title: EVENT NAME [LOCATION, DD/MM/YYYY]
 nav_order: YYYYx
 parent: Upcoming Events
-grand_parent: Events
-has_children: false
-has_toc: true
 ---
 
 # EVENT NAME [LOCATION, DD/MM/YYYY]
 
-**Date:** Day, Month Date, Year
+Presented by SPEAKER NAME(S)
 
-**Time:** Start Time - End Time
+BRIEF DESCRIPTION of what the event is about and why someone would attend.
 
-**Location:** Venue Name, Address, Postcode
+📅 Date & Time: DAY, MONTH DD, YYYY | HH:MM-HH:MM (BST)
 
-WRITE YOUR EVENT DESCRIPTION HERE. Explain what the event is about, who is speaking or leading it, and what participants can expect.
+📍 Location: VENUE NAME, ADDRESS
 
-**Registration:** If you are interested in participating in this event, please register [**here**](PASTE_YOUR_GOOGLE_FORM_LINK_HERE).
+🔗 Registration: [Register here](REGISTRATION_URL)
 
-If you have any questions, please reach out to the Steering Committee: londonqualitativecommunity@gmail.com
+Questions? Reach out to the L+QC Steering Committee at [londonqualitativecommunity@gmail.com](mailto:londonqualitativecommunity@gmail.com).

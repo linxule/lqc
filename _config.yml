@@ -27,3 +27,56 @@ back_to_top_text: "Back to top"
 exclude:
   - discussions/
   - CLAUDE.md
+
+# Default front matter for event pages.
+# New events under docs/Events/ inherit layout/grand_parent/has_toc
+# automatically — contributors only need to set title, nav_order, and parent.
+defaults:
+  - scope:
+      path: "docs/Events"
+      type: pages
+    values:
+      layout: default
+      grand_parent: Events
+      has_toc: true
+
+# Custom callout types. Use via Kramdown attribute syntax:
+#   > This is a deadline note
+#   {: .deadline }
+callouts_level: quiet
+callouts:
+  new:
+    title: New
+    color: green
+  deadline:
+    title: Deadline
+    color: red
+  archive:
+    title: Archive
+    color: grey-dk
+  highlight:
+    color: yellow
+
+# Social & SEO — consumed by jekyll-seo-tag (bundled with just-the-docs)
+# Note: /assets/LQC.jpg is a stopgap — a proper 1200x630 OG card is a
+# later committee task.
+image: /assets/LQC.jpg
+author: London⁺ Qualitative Community
+twitter:
+  card: summary_large_image
+social:
+  name: London⁺ Qualitative Community
+  links:
+    - https://www.linkedin.com/groups/12947079/
+    - https://github.com/linxule/lqc
+
+# Search tuning. Default JTD search indexes h1–h6 including boilerplate
+# event sub-headings, which floods results. Scope to h2 and add previews.
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false

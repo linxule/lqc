@@ -54,3 +54,10 @@ button:focus,
   margin-top: -0.5rem;
   margin-bottom: 1.5rem;
 }
+
+// Respect prefers-reduced-motion — the transitions and hover translate
+// above can be uncomfortable for users with vestibular sensitivity.
+@media (prefers-reduced-motion: reduce) {
+  a, .btn { transition: none; }
+  .btn:hover { transform: none; }
+}
