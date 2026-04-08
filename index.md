@@ -25,6 +25,6 @@ Underlying this shared purpose is a set of founding values that we believe will 
 {: .note }
 > Whether you're new to qualitative research or a seasoned scholar, there's a place for you here.
 
-[Upcoming Events](/docs/Events/upcoming-events){: .btn .btn-primary .mr-2 }
+[Upcoming Events](/docs/Events/upcoming-events){: .btn .btn-outline .mr-2 }
 [Connect on LinkedIn](https://www.linkedin.com/groups/12947079/){: .btn .btn-outline .mr-2 }
 [Browse Resources](/docs/Resources/resources){: .btn .btn-outline }
