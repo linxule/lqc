@@ -9,12 +9,15 @@ Jekyll site for the London⁺ Qualitative Community (L⁺QC), published at [lond
 ## Local development
 
 ```bash
-bundle install              # first-time setup (Ruby pinned via .ruby-version)
-bundle exec jekyll serve    # local preview at http://localhost:4000
-bundle exec jekyll build    # what CI runs; output in _site/
+bundle install                          # first-time setup (Ruby pinned via .ruby-version)
+bundle exec jekyll serve                # local preview at http://localhost:4000
+bundle exec jekyll build                # what CI runs; output in _site/
+bash .github/scripts/content-lint.sh    # pre-push content checks (same as CI)
 ```
 
 Ruby version is pinned in `.ruby-version` (read by rbenv/asdf/chruby and by the `ruby/setup-ruby` GitHub Action). Workflows do not hardcode a version — update `.ruby-version` to bump everywhere in one place.
+
+If `bundle install` fails with *"C compiler cannot create executables"*, `xcode-select -p` is probably pointing at a missing Xcode install. Fix with `sudo xcode-select -s /Library/Developer/CommandLineTools`, or use a one-shot override: `DEVELOPER_DIR=/Library/Developer/CommandLineTools bundle install`.
 
 The deploy workflow builds with `JEKYLL_ENV=production` and `--baseurl`, so theme/asset behavior may differ from local serve. If something only breaks in production, reproduce with `JEKYLL_ENV=production bundle exec jekyll build`.
 
@@ -26,7 +29,17 @@ Key conventions:
 
 - **Events lifecycle** is a front-matter flip, not a file move. To retire an event, change `parent: Upcoming Events` → `parent: Past Events` in the event's `.md` file. The file stays in `docs/Events/`. `content-lint.sh` warns if an event's title date is in the past and `parent:` is still `Upcoming Events`.
 - **`nav_order` for events** uses the `YYYYx` pattern (`2025a`, `2025b`, ...) so chronologically related events sort together. `past-events.md` sets `child_nav_order: reversed` so the newest past events appear first; `upcoming-events.md` uses the default ascending order so upcoming events read chronologically.
-- **Templates** in `_templates/` (`upcoming-event.md`, `past-event.md`) are the canonical starting point for new event pages. They carry minimal front matter — only `title`, `nav_order`, and `parent` — because `layout` and `has_toc` come from the `defaults:` block in `_config.yml` automatically (see [Configuration](#configuration)). Body uses the emoji-style layout (📅 Date & Time, 📍 Location, 🔗 Registration) which is the canonical format for 2026+ events. The `_templates/` directory is a repo convention, not a Jekyll feature — files there are copy-paste sources, not a Jekyll collection. README.md walks non-technical contributors through the copy flow.
+- **Templates** in `_templates/` (`upcoming-event.md`, `past-event.md`) are the canonical starting point for new event pages. Minimal front matter:
+
+  ```yaml
+  ---
+  title: EVENT NAME [LOCATION, DD/MM/YYYY]
+  nav_order: YYYYx
+  parent: Upcoming Events
+  ---
+  ```
+
+  `layout` and `has_toc` come from the `defaults:` block in `_config.yml` automatically (see [Configuration](#configuration)). Body uses the emoji-style layout (📅 Date & Time, 📍 Location, 🔗 Registration), canonical for 2026+ events. `_templates/` is a repo convention, not a Jekyll collection — files there are copy-paste sources. README.md walks non-technical contributors through the copy flow.
 - **`discussions/`** is excluded from the build via `_config.yml` `exclude:`. The custom `_layouts/discussion.html` exists for that excluded content; do not assume it's in use on the live site.
 - **Assets** live flat under `assets/` (with `assets/logos/` for branding). Event pages reference them as `/assets/filename.ext` — root-relative paths, which work because the site is served from the apex domain (`CNAME` → londonqualcommunity.com), not a subpath.
 - **CSS helpers** in `_sass/custom/custom.scss`: `.responsive-embed` with `--calendar` (4:3) and `--doc` (A4 portrait) modifiers for scaling iframes (Google Calendar / Google Docs previews); `.committee-member-photo` for the Steering Committee photo grid. The file also honors `prefers-reduced-motion`.
