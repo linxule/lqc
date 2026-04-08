@@ -27,3 +27,15 @@ back_to_top_text: "Back to top"
 exclude:
   - discussions/
   - CLAUDE.md
+
+# Default front matter for event pages.
+# New events under docs/Events/ inherit layout/grand_parent/has_toc
+# automatically — contributors only need to set title, nav_order, and parent.
+defaults:
+  - scope:
+      path: "docs/Events"
+      type: pages
+    values:
+      layout: default
+      grand_parent: Events
+      has_toc: true
