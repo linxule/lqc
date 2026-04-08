@@ -13,6 +13,7 @@ This is the repository for [londonqualcommunity.com](https://londonqualcommunity
 | Post a new upcoming event | [Add a new upcoming event](#add-a-new-upcoming-event) |
 | Move an event that's finished into Past Events | [Move an event to Past Events](#move-an-event-to-past-events) |
 | Add a photo or image to a page | [Add an image](#add-an-image) |
+| Add or update a committee member | [Add or update a Committee Members page](#add-or-update-a-committee-members-page) |
 | Fix a typo or edit a page | [Edit an existing page](#edit-an-existing-page) |
 | Understand the small extras (callouts, embeds) | [Nice-to-know extras](#nice-to-know-extras) |
 | Work out why my change is showing a red X | [When something goes wrong](#when-something-goes-wrong) |
@@ -92,7 +93,7 @@ Questions? Reach out to the L+QC Steering Committee at [londonqualitativecommuni
 
 A few notes on the front matter:
 
-- **`title`** — the sidebar label. The `[VENUE, DD/MM/YYYY]` suffix is what the automatic check uses to notice when an event date has passed, so please keep the date in that format.
+- **`title`** — the sidebar label. The `[VENUE, DD/MM/YYYY]` suffix is what the automatic check uses to notice when an event date has passed, so please keep the date in that format. For multi-date events (like a workshop series that runs over several months), use the format `[LOCATION, Month-Month YYYY]` instead, e.g. `[Online, Jan-March 2026]`. See `docs/Events/2026-writing-tips.md` for a live example.
 - **`nav_order`** — controls the order events appear in the list. Use the year plus a letter: `2026a` for the first event of 2026, `2026b` for the second, `2026c` for the third, and so on. Each letter must be unique within the same year.
 - **`parent`** — leave this as `Upcoming Events` while the event is still in the future. You'll change it to `Past Events` after the event happens (see next section).
 
@@ -131,6 +132,18 @@ The file stays exactly where it is — only the `parent:` line changes.
 
 **If you forget:** the site's automatic check runs on every change and will warn you if an event's title date is in the past but the page is still marked `Upcoming Events`. You'll see it as a note on your pull request.
 
+### Optional: add a post-event recap
+
+Past events look much nicer with a few photos and a sentence or two about how the day went. This is worth doing once the event has taken place, you have photos to hand, and you can say something about attendance or highlights.
+
+1. Upload the photos to the `assets/` folder (see [Add an image](#add-an-image) for the exact steps).
+2. Open the event's `.md` file and add a `## Photos` heading near the bottom.
+3. Underneath, include each photo with the same `<img>` pattern shown in the "Add an image" section.
+4. Optionally change the description at the top into past tense and add a short recap paragraph — who attended, what was discussed, any standout moments.
+5. Remove the `🔗 Registration:` line, since it's no longer relevant.
+
+For a worked example of what a tidied-up past event looks like, see `docs/Events/2025-2026-feb-research-day.md` — it has a short recap paragraph and an acknowledgements list for the organising committee.
+
 ---
 
 ## Add an image
@@ -155,6 +168,54 @@ The leading slash (`/assets/...`) is important — it tells the site to look for
 
 ---
 
+## Add or update a Committee Members page
+
+There are two pages under `docs/Committee Members/`:
+
+- **`Steering Committee.md`** — the core committee that runs L⁺QC. Each entry has a name, email, profile link, and headshot photo.
+- **`School Representatives.md`** — one section per institution, listing that school's Faculty and Student Representatives as a simple bulleted list (no photos).
+
+The two files use different formats, so pick the right one before you start.
+
+### Adding a new Steering Committee member
+
+1. In GitHub, open `docs/Committee Members/Steering Committee.md` and click the pencil icon to edit.
+2. Upload the person's headshot to the `assets/` folder first if you haven't already (see [Add an image](#add-an-image)).
+3. Inside the `<div class="container">` block, add a new `<div class="person">...</div>` entry in alphabetical order alongside the others. Use this exact pattern:
+
+   ```html
+   <div class="person">
+   <p><a href="https://example.ac.uk/people/firstname-lastname"><b>Firstname Lastname</b></a> (<a href="mailto:firstname.lastname@example.ac.uk">Email</a>)</p>
+   <img src="/assets/firstname.jpg" alt="Firstname Lastname" class="committee-member-photo">
+   </div>
+   ```
+
+   Replace the four placeholders: the profile URL, the display name, the email address, and the photo filename. Leave `class="committee-member-photo"` exactly as it is — it's what gives every headshot the same size and styling.
+
+4. Scroll down, write a commit message like `Add Firstname Lastname to Steering Committee`, and click **Commit changes**.
+
+### Adding a new School Representative
+
+1. Open `docs/Committee Members/School Representatives.md`.
+2. Find the `## School Name` heading for the right institution. Schools are in alphabetical order; if the school isn't listed yet, add a new `## School Name` heading in the right place.
+3. Add the person as a bullet underneath, matching the style already in the file:
+
+   ```markdown
+   - [Firstname Lastname](https://example.ac.uk/people/firstname-lastname) (Faculty Representative)
+   - Firstname Lastname (Student Representative)
+   ```
+
+   The profile link is optional — plenty of existing entries are plain text.
+4. Commit with a short message like `Add Firstname Lastname as School Rep for Example University`.
+
+### Updating or removing an existing person
+
+To update someone, just edit the relevant text in place (name, email, link, or photo filename) — it's the same as editing any other page.
+
+To remove a Steering Committee member, delete the entire `<div class="person">...</div>` block for that person. To remove a School Representative, delete their bullet line. If a school ends up with no representatives at all, delete the `## School Name` heading too.
+
+---
+
 ## Edit an existing page
 
 For typos, small updates, or any other content change:
@@ -162,7 +223,26 @@ For typos, small updates, or any other content change:
 1. Navigate to the file you want to edit.
 2. Click the **pencil icon** (Edit this file).
 3. Make your changes.
+   - Before committing, click the **Preview** tab at the top of the editor to see how your change will render. It's not a perfect match for the live site but it'll catch most typos and broken markdown.
 4. Scroll down, add a short commit message, and click **Commit changes**.
+
+### Swapping out the Research Seminars document
+
+If the Google Doc behind the Research Seminars page changes (for example, a new academic year gets its own document), open `docs/Events/ResearchSeminars.md` and update **two** links — both point to the same doc but use different suffixes.
+
+1. Inside the `<iframe src="...">` tag, replace the URL. This one ends in `/preview`:
+
+   ```html
+   <iframe src="https://docs.google.com/document/d/NEW_DOC_ID/preview" ...></iframe>
+   ```
+
+2. In the `[Open in Google Docs](...)` button just below the iframe, replace the URL. This one ends in `/edit?usp=sharing`:
+
+   ```markdown
+   [Open in Google Docs](https://docs.google.com/document/d/NEW_DOC_ID/edit?usp=sharing){: .btn .btn-outline }
+   ```
+
+Before committing, make sure the new document is shared with **Anyone with the link can view** in Google Docs. If it isn't, the embedded iframe will show a "you need permission" error to visitors.
 
 ---
 
@@ -236,6 +316,21 @@ _templates/
   upcoming-event.md         ← copy-paste starting points
   past-event.md
 ```
+
+### Files to leave alone
+
+Most of the other files in the repository are part of the site's underlying machinery — the templates, styles, and automated checks that make everything work. They don't usually need to be touched, and editing them can break the site in ways that aren't always obvious straight away. If you're not sure, it's safer to leave them be.
+
+In particular, please don't edit the following unless you know what you're doing:
+
+- `_config.yml` — the site's main settings.
+- `.github/` — the automated checks and workflows that run on every commit.
+- `_layouts/`, `_includes/`, `_sass/` — the site's templates and styling.
+- `Gemfile` and `Gemfile.lock` — software versions the site is built against.
+- `.ruby-version` — which version of Ruby the site uses.
+- `_templates/upcoming-event.md` and `_templates/past-event.md` — you **should** copy from these when adding a new event, but don't edit the originals themselves. Changing a template affects every future event.
+
+If you think one of these needs updating, email the committee first — someone with technical background can take care of it.
 
 ---
 
