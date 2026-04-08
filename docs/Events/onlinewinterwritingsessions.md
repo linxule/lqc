@@ -23,4 +23,4 @@ Planned format for each session:
 - Share writing goals for the session in small breakout groups.
 - Write (mics off) for 40 min, 10 min social break - repeat 3 times.
 
-Organized and hosted by Wendy Kilminster, Lorenzo Maulini, Jadwiga Supryn from Säid Business School. If interested in joining, please email us at <londonqualitativecommunity@gmail.com>. 
+Organized and hosted by Wendy Kilminster, Lorenzo Maulini, Jadwiga Supryn from Saïd Business School. If interested in joining, please email us at <londonqualitativecommunity@gmail.com>. 
