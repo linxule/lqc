@@ -4,5 +4,7 @@ updates:
     directory: /
     schedule:
       interval: daily
-    allow:
-      - dependency-type: direct
+    # No `allow` filter: Dependabot tracks both direct and transitive
+    # dependencies so transitive security advisories (e.g.
+    # GHSA-h27x-rffw-24p4 in addressable) get auto-PRs instead of
+    # waiting for a direct-dep bump to cascade a resolver change.
