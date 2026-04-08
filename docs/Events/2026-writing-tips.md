@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2026 L+QC Writing Tips Series [Jan-Feb, 2026]
+title: 2026 L+QC Writing Tips Series [Jan-March, 2026]
 nav_order: 2026b
 parent: Past Events
 grand_parent: Events
