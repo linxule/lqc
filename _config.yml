@@ -29,15 +29,22 @@ exclude:
   - CLAUDE.md
 
 # Default front matter for event pages.
-# New events under docs/Events/ inherit layout/grand_parent/has_toc
-# automatically — contributors only need to set title, nav_order, and parent.
+# New events under docs/Events/ inherit layout and has_toc automatically —
+# contributors only need to set title, nav_order, and parent.
+#
+# NOTE: do NOT set grand_parent here. The scope matches every page under
+# docs/Events/ including section shells (Events.md, upcoming-events.md,
+# past-events.md, ResearchSeminars.md) which themselves have
+# `parent: Events`. Setting `grand_parent: Events` here would create
+# parent == grand_parent and break the JTD nav tree for those sections.
+# JTD walks the parent chain automatically, so grand_parent is not
+# required for 3-level nesting.
 defaults:
   - scope:
       path: "docs/Events"
       type: pages
     values:
       layout: default
-      grand_parent: Events
       has_toc: true
 
 # Custom callout types. Use via Kramdown attribute syntax:
