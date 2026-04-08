@@ -89,9 +89,11 @@ GEM
 
 PLATFORMS
   arm64-darwin-23
+  arm64-darwin-25
   x86_64-linux
 
 DEPENDENCIES
+  addressable (>= 2.9.0)
   google-protobuf (>= 4.27.5)
   jekyll (~> 4.4.1)
   just-the-docs (= 0.12.0)
