@@ -25,7 +25,7 @@ The site is **navigation-driven by front matter**, not by directory layout. Just
 Key conventions:
 
 - **Events lifecycle** is a front-matter flip, not a file move. To retire an event, change `parent: Upcoming Events` → `parent: Past Events` in the event's `.md` file. The file stays in `docs/Events/`.
-- **`nav_order` for events** uses the `YYYYx` pattern (`2025a`, `2025b`, ...) so chronologically related events sort together. `upcoming-events.md` sets `child_nav_order: reversed` so newer events appear on top.
+- **`nav_order` for events** uses the `YYYYx` pattern (`2025a`, `2025b`, ...) so chronologically related events sort together. `past-events.md` sets `child_nav_order: reversed` so the newest past events appear first; `upcoming-events.md` uses the default ascending order so upcoming events read chronologically.
 - **Templates** in `_templates/` (`upcoming-event.md`, `past-event.md`) are the canonical starting point for new event pages. The `_templates/` directory is a convention of this repo, not a Jekyll feature — files there are not collections, just copy-paste sources. README.md walks contributors through the copy flow.
 - **`discussions/`** is excluded from the build via `_config.yml` `exclude:`. The custom `_layouts/discussion.html` exists for that excluded content; do not assume it's in use on the live site.
 - **Assets** live flat under `assets/` (with `assets/logos/` for branding). Event pages reference them as `/assets/filename.ext` — root-relative paths, which work because the site is served from the apex domain (`CNAME` → londonqualcommunity.com), not a subpath.
