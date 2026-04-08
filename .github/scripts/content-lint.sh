@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Content lint for LQC Jekyll site.
 #
-# Catches five classes of bugs that have shipped in past PRs:
+# Catches six classes of bugs that have shipped in past PRs:
 #   1. ERROR: regular files in docs/Events/ without a .md extension
 #      (Jekyll silently skips them, causing invisible duplicate drafts).
 #   2. ERROR: .md files whose front matter declares parent: "Upcoming Events"
@@ -17,6 +17,11 @@
 #      (same parent, same nav_order -> unstable ordering).
 #   5. WARN:  docs/Events/*.md containing TBD or TBC placeholders
 #      (stale drafts left past the event date).
+#   6. WARN:  events marked `parent: Upcoming Events` whose most recent
+#      date in the title (DD/MM/YYYY) is in the past. This catches the
+#      "forgot to flip parent to Past Events" case without full lifecycle
+#      automation. Multi-date ranges like "17/01/2025-21/02/2025" use
+#      the LAST (end) date.
 #
 # Usage: bash .github/scripts/content-lint.sh
 # Exits 1 on ERRORs, 0 otherwise. Warnings always print but never fail.
@@ -107,6 +112,30 @@ fi
 while IFS= read -r f; do
   [ -n "$f" ] && echo "WARN: $f still contains TBD/TBC placeholder text."
 done < <(grep -rilE '\b(TBD|TBC)\b' --include='*.md' docs/Events/ 2>/dev/null || true)
+
+# --- Check 6: upcoming events with past dates in title -----------------------
+# Parse DD/MM/YYYY patterns from the title line, use the LAST match as the
+# end date for multi-date ranges. Compare to today as YYYYMMDD integers.
+today=$(date +%Y%m%d)
+while IFS= read -r f; do
+  [ -f "$f" ] || continue
+  # Only pages currently marked Upcoming
+  if ! awk '/^---/{n++} n==1 && /^parent:[[:space:]]*Upcoming Events[[:space:]]*$/{found=1} n==2{exit} END{exit !found}' "$f"; then
+    continue
+  fi
+  # Extract last DD/MM/YYYY occurrence from the title line
+  title_line=$(awk '/^---/{n++} n==1 && /^title:/{print; exit}' "$f")
+  last_date=$(printf '%s\n' "$title_line" | grep -oE '[0-9]{2}/[0-9]{2}/[0-9]{4}' | tail -1)
+  [ -z "$last_date" ] && continue
+  day=${last_date%%/*}
+  rest=${last_date#*/}
+  month=${rest%%/*}
+  year=${rest#*/}
+  event_ymd="${year}${month}${day}"
+  if [ "$event_ymd" -lt "$today" ]; then
+    echo "WARN: $f is marked 'parent: Upcoming Events' but its title date ($last_date) is in the past. Flip to 'parent: Past Events'?"
+  fi
+done < <(find docs/Events -maxdepth 1 -name '*.md' -type f 2>/dev/null)
 
 if [ "$errors" -gt 0 ]; then
   echo "content-lint: $errors error(s)." >&2
