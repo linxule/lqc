@@ -39,3 +39,20 @@ defaults:
       layout: default
       grand_parent: Events
       has_toc: true
+
+# Custom callout types. Use via Kramdown attribute syntax:
+#   > This is a deadline note
+#   {: .deadline }
+callouts_level: quiet
+callouts:
+  new:
+    title: New
+    color: green
+  deadline:
+    title: Deadline
+    color: red
+  archive:
+    title: Archive
+    color: grey-dk
+  highlight:
+    color: yellow
