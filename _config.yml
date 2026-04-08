@@ -56,3 +56,16 @@ callouts:
     color: grey-dk
   highlight:
     color: yellow
+
+# Social & SEO — consumed by jekyll-seo-tag (bundled with just-the-docs)
+# Note: /assets/LQC.jpg is a stopgap — a proper 1200x630 OG card is a
+# later committee task.
+image: /assets/LQC.jpg
+author: London⁺ Qualitative Community
+twitter:
+  card: summary_large_image
+social:
+  name: London⁺ Qualitative Community
+  links:
+    - https://www.linkedin.com/groups/12947079/
+    - https://github.com/linxule/lqc
