@@ -67,6 +67,14 @@ button:focus,
   margin-bottom: 1.5rem;
 }
 
+// === COMMITTEE MEMBER PHOTOS ===
+// Shared class for Steering Committee headshots. Replaces repeated
+// inline style="max-width: 300px; height: auto;" on each <img>.
+.committee-member-photo {
+  max-width: 300px;
+  height: auto;
+}
+
 // Respect prefers-reduced-motion — the transitions and hover translate
 // above can be uncomfortable for users with vestibular sensitivity.
 @media (prefers-reduced-motion: reduce) {
