@@ -34,13 +34,13 @@ A big thank you on behalf of all L+QC members to the 2026 L+QC Research Day Orga
 
 [Marjolaine Rostain](https://www.wbs.ac.uk/about/person/marjolaine-rostain/)
 
-Anusheela Brahmachary [anusheela.brahmachary@bayes.city.ac.uk](anusheela.brahmachary@bayes.city.ac.uk)
+Anusheela Brahmachary [anusheela.brahmachary@bayes.city.ac.uk](mailto:anusheela.brahmachary@bayes.city.ac.uk)
 
-Aakif Rahman [aakif.rahman@bayes.city.ac.uk](aakif.rahman@bayes.city.ac.uk)
+Aakif Rahman [aakif.rahman@bayes.city.ac.uk](mailto:aakif.rahman@bayes.city.ac.uk)
 
-Debjyoti Chakravorty [debjyoti.chakravorty@bayes.city.ac.uk](debjyoti.chakravorty@bayes.city.ac.uk)
+Debjyoti Chakravorty [debjyoti.chakravorty@bayes.city.ac.uk](mailto:debjyoti.chakravorty@bayes.city.ac.uk)
 
-Kabir M Joshi [kabir.joshi@bayes.city.ac.uk](kabir.joshi@bayes.city.ac.uk)
+Kabir M Joshi [kabir.joshi@bayes.city.ac.uk](mailto:kabir.joshi@bayes.city.ac.uk)
 
 Pictures from the event can be found [here](https://drive.google.com/drive/u/2/folders/1HJVua29ILsdxPquklr8hvXAbZVLHGoXq)
 

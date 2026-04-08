@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2026 L+QC Writing Tips Series [Jan-Feb, 2026]
+title: 2026 L+QC Writing Tips Series [Jan-March, 2026]
 nav_order: 2026b
 parent: Past Events
 grand_parent: Events
@@ -38,4 +38,4 @@ No registration needed!
 • 06 March 2026 (10:00–11:00 AM) – Madeleine Rauch (University of Cambridge)
 
 
-Please contact the L+QC Steering Committee at [londonqualitativecommunity@gmail.com](londonqualitativecommunity@gmail.com} with any questions.
+Please contact the L+QC Steering Committee at [londonqualitativecommunity@gmail.com](mailto:londonqualitativecommunity@gmail.com) with any questions.
