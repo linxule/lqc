@@ -11,3 +11,4 @@ gem "rexml", ">= 3.3.9"            # CVE-2024-39908, CVE-2024-41946, CVE-2024-43
 gem "google-protobuf", ">= 4.27.5" # CVE-2024-7254
 gem "webrick", ">= 1.8.2"          # CVE-2024-47220
 gem "addressable", ">= 2.9.0"      # GHSA-h27x-rffw-24p4 / CVE-2026-35611 (ReDoS)
+gem "concurrent-ruby", ">= 1.3.7"  # CVE-2026-54904, CVE-2026-54905, CVE-2026-54906
