@@ -2,13 +2,17 @@
 layout: default
 title: Workshop on Crafting Qualitative Research for Maximum Impact [Imperial College Business School, 23/04/2026] 
 nav_order: 2026d
-parent: Upcoming Events
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
 ---
 
 # Workshop on Crafting Qualitative Research for Maximum Impact [Imperial College Business School, 23/04/2026]
+
+> Archived announcement: the scheduled date has passed. Original event information is preserved below.
+{: .archive }
+
 Presented by Kevin Corley, Charlotte Cloutier, and Ann Langley 
 
 Are you a qualitative scholar aiming to craft well-designed and rigorously executed projects? Kevin, Charlotte, and Ann have teamed up to write a book detailing their guidance on how to craft qualitative research for maximum impact.
@@ -24,11 +28,11 @@ In this session, they will:
 ✅ Encourage discussion and learning from others in our community
 
 
-📅 Date & Time: Thursday, April 23, 2026 | Time TBD (BST)
+📅 Date & Time: Thursday, April 23, 2026 (time not recorded in this announcement)
 
 📍 Location: Imperial College Business School - London, UK
 
-🔗 Registration: TBD
+Registration details were not recorded in this announcement.
 
 
 Questions? Reach out to the organizing committee through the L+QC committee at londonqualitativecommunity@gmail.com. We’re happy to help! 

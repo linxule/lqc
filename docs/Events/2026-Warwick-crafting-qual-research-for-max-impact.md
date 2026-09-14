@@ -2,13 +2,17 @@
 layout: default
 title: Workshop on Crafting Qualitative Research for Maximum Impact [Warwick Business School, 21/04/2026] 
 nav_order: 2026c
-parent: Upcoming Events
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
 ---
 
 # Workshop on Crafting Qualitative Research for Maximum Impact [Warwick Business School, 21/04/2026]
+
+> Archived announcement: the scheduled date has passed. Original event information is preserved below.
+{: .archive }
+
 Presented by Kevin Corley, Charlotte Cloutier, and Ann Langley 
 
 Are you a qualitative scholar aiming to craft well-designed and rigorously executed projects? Kevin, Charlotte, and Ann have teamed up to write a book detailing their guidance on how to craft qualitative research for maximum impact.
@@ -24,11 +28,11 @@ In this session, they will:
 ✅ Encourage discussion and learning from others in our community
 
 
-📅 Date & Time: Tuesday, April 21, 2026 | Time TBD (BST)
+📅 Date & Time: Tuesday, April 21, 2026 (time not recorded in this announcement)
 
 📍 Location: University of Warwick - Warwick Business School, Coventry, UK
 
-🔗 Registration: TBD
+Registration details were not recorded in this announcement.
 
 
 Questions? Reach out to the organizing committee through the L+QC committee at londonqualitativecommunity@gmail.com, we’re happy to help! 
