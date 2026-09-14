@@ -2,13 +2,17 @@
 layout: default
 title: 2026 Early Career Qualitative Research Festival [Warwick Business School, 04/06/2026] 
 nav_order: 2026e
-parent: Upcoming Events
+parent: Past Events
 grand_parent: Events
 has_children: false
 has_toc: true
 ---
 
 # 2026 Early Career Qualitative Research Festival [Warwick Business School, 04/06/2026]
+
+> Archived announcement: the scheduled date has passed. Original event information is preserved below.
+{: .archive }
+
 
 Are you an MRes/MPhil student, PhD candidate, postdoc, or early career researcher navigating the world of qualitative research? We’re excited to invite you to the third Early Career Qualitative Research Festival in 2026!
 
@@ -29,7 +33,7 @@ Organized by the WBS Qualitative Research Forum in collaboration with London + Q
 
 🔗 Registration Deadlines: April 30th for paper feedback submissions; May 15th for general participation
 
-👉 Register here: https://lnkd.in/efKE6Szq
+Original registration link (archived): https://lnkd.in/efKE6Szq
 
 Questions? Reach out to the organizing committee through the L+QC committee at londonqualitativecommunity@gmail.com, we’re happy to help! 
 
