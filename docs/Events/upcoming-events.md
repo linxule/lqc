@@ -3,7 +3,7 @@ layout: default
 title: Upcoming Events
 nav_order: 1
 parent: Events
-has_children: false
+has_children: true
 has_toc: true
 search_exclude: true
 ---
@@ -19,5 +19,8 @@ Check the calendar below for upcoming L⁺QC community events. New event announc
 [Add to Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=londonqualitativecommunity@gmail.com){: .btn .btn-outline .mr-2 }
 [Open in new tab](https://calendar.google.com/calendar/embed?src=bG9uZG9ucXVhbGl0YXRpdmVjb21tdW5pdHlAZ21haWwuY29t){: .btn .btn-outline }
 
+{% assign announcements = site.pages | where: "parent", "Upcoming Events" %}
+{% if announcements.size == 0 %}
 > There are currently no upcoming event announcements published on this site. Browse [Past Events](/docs/Events/past-events) for earlier announcements.
 {: .note }
+{% endif %}
