@@ -3,8 +3,19 @@ updates:
   - package-ecosystem: bundler
     directory: /
     schedule:
-      interval: daily
+      interval: weekly
+    groups:
+      bundler-minor-patch:
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
     # No `allow` filter: Dependabot tracks both direct and transitive
     # dependencies so transitive security advisories (e.g.
     # GHSA-h27x-rffw-24p4 in addressable) get auto-PRs instead of
     # waiting for a direct-dep bump to cascade a resolver change.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      github-actions:
+        patterns: ["*"]
